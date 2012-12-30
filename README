@@ -1,7 +1,7 @@
 EasyRPG TestGame
 ================
 
-EasyRPG TestGame is a game test suite made with RPG Maker 2003.
+EasyRPG TestGame is a game test suite made with RPG Maker 2000.
 The test suite consists of a collection of test rooms in each map.
 EasyRPG Player should execute these tests in the same form as the
 RPG Maker 2000/2003 game runtime (RPG_RT.exe) does.
@@ -24,7 +24,7 @@ Requirements
 ------------
 
 EasyRPG TestGame is intended to be run with EasyRPG Player.
-To be able to edit the test suite you need a copy of RPG Maker 2003.
+To be able to edit the test suite you need a copy of RPG Maker 2000.
 
 See the documentation for further information.
 
