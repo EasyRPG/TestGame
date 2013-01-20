@@ -1,0 +1,21 @@
+.386
+.MODEL FLAT, STDCALL
+option casemap:none
+
+include d:\masm32\include\user32.inc
+includelib kernel32.lib
+includelib user32.lib
+
+MessageBoxA PROTO :Dword
+ExitProcess PROTO :Dword
+
+.DATA
+MsgBoxTitle db "RPG_RT Stub",0
+MsgBoxText db "This RPG_RT.exe is a stub. Without this file the RPG Maker editor doesn't find the project.",0
+
+.CODE
+
+start:
+    invoke MessageBoxA, 0, addr MsgBoxText, addr MsgBoxTitle, 0
+    invoke ExitProcess, 0
+END start
