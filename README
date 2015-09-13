@@ -12,6 +12,19 @@ at the project website:
   https://easy-rpg.org/
 
 
+
+Simple Use
+----------
+
+Place the binary of the player (or a symbolic link to the player) in
+the folder of the game you want to run and execute the player. An
+example would be to (on a unix system) run a the commands
+
+    cd TestGame-2000
+    ln -s <path to easyrpg-player>
+    ./easyrpg-player
+
+
 Documentation
 -------------
 
