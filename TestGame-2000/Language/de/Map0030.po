@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (41,80)
+msgid ""
+"I'm the IRC Bot EV0001.\n"
+"Visit me and the developers\n"
+"in #easyrpg @ freenode.net"
+msgstr ""
+"Ich bin der IRC-Bot EV0001.\n"
+"Besuche mich und die Entwickler\n"
+"in #easyrpg @ irc.libera.chat"
+
+#. ID 2, Page 1, Line 1, Pos (34,79)
+msgid ""
+"That huge tree is awesome, must be hundreds of\n"
+"years old!"
+msgstr ""
+"Dieser riesige Baum ist klasse, es muss hunderte\n"
+"von Jahren alt sein!"
+
+#. ID 3, Page 1, Line 1, Pos (35,77)
+msgid "Dev: I am busy!"
+msgstr "Dev: Ich bin beschäftigt!"
+
+#. ID 4, Page 1, Line 1, Pos (38,83)
+msgid ""
+"Just taking a walk, the landscape is beautiful,\n"
+"isn't it?"
+msgstr ""
+"Ich mache nur einen Spaziergang, die Landschaft\n"
+"ist schön, oder?"
+
+#. ID 5, Page 1, Line 1, Pos (26,73)
+msgid "I take a walk around the root"
+msgstr "Ich spaziere um den Stumpf."
+
+#. ID 6, Page 1, Line 1, Pos (36,72)
+msgid ""
+"Welcome to the EasyRPG TestGame, Alex!\n"
+"This game is used to verify how good EasyRPG (or\n"
+"other RPG Maker implementations) work."
+msgstr ""
+"Willkommen zum EasyRPG-Testspiel, Alex!\n"
+"Dieses Spiel wird verwendet um zu prüfen wie gut\n"
+"EasyRPG und andere RPG-Maker-Implementationen\n"
+"funktionieren."
+
+#. ID 6, Page 1, Line 4, Pos (36,72)
+msgid ""
+"Talk to one of the three characters waiting next\n"
+"to the bridge to enter the test rooms."
+msgstr ""
+"Sprich mit einem der drei Charakteren die neben\n"
+"der Brücke warten um die Testräume zu betreten."
+
+#. ID 6, Page 1, Line 6, Pos (36,72)
+msgid ""
+"The bridge is the first test case.\n"
+"It is used to check passability on event\n"
+"layer level. If you can't walk over the bridge\n"
+"touch the magical bridge on the left."
+msgstr ""
+"Die Brücke ist der erste Testfall. Dieser wird\n"
+"genutzt um die Überquerbarkeit auf der Ereignis-\n"
+"schicht zu überprüfen.\n"
+"<easyrpg:new_page>\n"
+"Wenn Sie nicht über die Brücke gehen können\n"
+"dann berühren Sie die magische Brücke links."
+
+#. ID 9, Page 1, Line 1, Pos (38,77)
+msgid "Map events"
+msgstr "Kartenereignisse"
+
+#. ID 10, Page 1, Line 1, Pos (39,77)
+msgid "Test AB Blocks"
+msgstr "Test der AB-Blöcke"
+
+#. ID 11, Page 1, Line 1, Pos (40,77)
+msgid "Test D Blocks"
+msgstr "Test der D-Blöcke"
+

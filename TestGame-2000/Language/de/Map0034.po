@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (1,9)
+msgid "Switch 0001 is enabled"
+msgstr ""
+
+#. ID 1, Page 1, Line 3, Pos (1,9)
+#. ID 2, Page 1, Line 3, Pos (1,7)
+#. ID 3, Page 1, Line 3, Pos (3,9)
+#. ID 5, Page 1, Line 3, Pos (3,8)
+#. ID 6, Page 1, Line 3, Pos (3,7)
+#. ID 7, Page 1, Line 3, Pos (3,6)
+#. ID 8, Page 1, Line 3, Pos (3,5)
+#. ID 9, Page 1, Line 3, Pos (3,4)
+#. ID 10, Page 1, Line 3, Pos (5,9)
+#. ID 12, Page 1, Line 3, Pos (5,7)
+#. ID 14, Page 1, Line 3, Pos (7,9)
+#. ID 15, Page 1, Line 3, Pos (7,7)
+#. ID 17, Page 1, Line 4, Pos (9,9)
+#. ID 17, Page 1, Line 13, Pos (9,9)
+#. ID 17, Page 1, Line 22, Pos (9,9)
+#. ID 17, Page 1, Line 31, Pos (9,9)
+#. ID 18, Page 1, Line 4, Pos (9,7)
+#. ID 18, Page 1, Line 13, Pos (9,7)
+#. ID 18, Page 1, Line 22, Pos (9,7)
+#. ID 18, Page 1, Line 31, Pos (9,7)
+#. ID 19, Page 1, Line 4, Pos (9,5)
+#. ID 19, Page 1, Line 13, Pos (9,5)
+#. ID 19, Page 1, Line 22, Pos (9,5)
+#. ID 19, Page 1, Line 31, Pos (9,5)
+#. ID 25, Page 1, Line 3, Pos (11,9)
+#. ID 29, Page 1, Line 3, Pos (12,9)
+#. ID 31, Page 1, Line 3, Pos (13,9)
+#. ID 32, Page 1, Line 3, Pos (14,9)
+#. ID 35, Page 1, Line 3, Pos (15,9)
+#. ID 36, Page 1, Line 3, Pos (16,9)
+msgid "True"
+msgstr ""
+
+#. ID 1, Page 1, Line 6, Pos (1,9)
+#. ID 2, Page 1, Line 6, Pos (1,7)
+#. ID 3, Page 1, Line 6, Pos (3,9)
+#. ID 5, Page 1, Line 6, Pos (3,8)
+#. ID 6, Page 1, Line 6, Pos (3,7)
+#. ID 7, Page 1, Line 6, Pos (3,6)
+#. ID 8, Page 1, Line 6, Pos (3,5)
+#. ID 9, Page 1, Line 6, Pos (3,4)
+#. ID 10, Page 1, Line 6, Pos (5,9)
+#. ID 12, Page 1, Line 6, Pos (5,7)
+#. ID 14, Page 1, Line 6, Pos (7,9)
+#. ID 15, Page 1, Line 6, Pos (7,7)
+#. ID 17, Page 1, Line 7, Pos (9,9)
+#. ID 17, Page 1, Line 16, Pos (9,9)
+#. ID 17, Page 1, Line 25, Pos (9,9)
+#. ID 17, Page 1, Line 34, Pos (9,9)
+#. ID 18, Page 1, Line 7, Pos (9,7)
+#. ID 18, Page 1, Line 16, Pos (9,7)
+#. ID 18, Page 1, Line 25, Pos (9,7)
+#. ID 18, Page 1, Line 34, Pos (9,7)
+#. ID 19, Page 1, Line 7, Pos (9,5)
+#. ID 19, Page 1, Line 16, Pos (9,5)
+#. ID 19, Page 1, Line 25, Pos (9,5)
+#. ID 19, Page 1, Line 34, Pos (9,5)
+#. ID 25, Page 1, Line 6, Pos (11,9)
+#. ID 29, Page 1, Line 6, Pos (12,9)
+#. ID 31, Page 1, Line 6, Pos (13,9)
+#. ID 32, Page 1, Line 6, Pos (14,9)
+#. ID 35, Page 1, Line 6, Pos (15,9)
+#. ID 36, Page 1, Line 6, Pos (16,9)
+msgid "False"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (1,7)
+msgid "Switch 0001 is disabled"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (3,9)
+msgid "\\v[1] == \\v[2]"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (3,11)
+msgid "Enter Value for Variable 0001"
+msgstr ""
+
+#. ID 4, Page 1, Line 3, Pos (3,11)
+msgid "Enter Value for Variable 0002"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (3,8)
+msgid "\\v[1] != \\v[2]"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (3,7)
+msgid "\\v[1] <= \\v[2]"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (3,6)
+msgid "\\v[1] >= \\v[2]"
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (3,5)
+msgid "\\v[1] > \\v[2]"
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (3,4)
+msgid "\\v[1] < \\v[2]"
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (5,9)
+msgid "Money is >= 100"
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (1,11)
+msgid "Toggling Switch 0001"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (5,7)
+msgid "Money is <= 100"
+msgstr ""
+
+#. ID 13, Page 1, Line 2, Pos (5,11)
+msgid "Enter how many money you want"
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (7,9)
+msgid "Hero has an apple"
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (7,7)
+msgid "Hero has no apple"
+msgstr ""
+
+#. ID 16, Page 1, Line 1, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+msgid "Do you want an apple?"
+msgstr ""
+
+#. ID 16, Page 1, Line 2, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+#. ID 26, Page 1, Line 2, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 2, Pos (16,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+
+#. ID 16, Page 1, Line 8, Pos (7,11)
+msgid "I took your apples"
+msgstr ""
+
+#. ID 17, Page 1, Line 1, Pos (9,9)
+#. Choice (4 options)
+msgid ""
+"Hero faces up\n"
+"Down\n"
+"Left\n"
+"Right"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (9,7)
+#. Choice (4 options)
+msgid ""
+"I face Up\n"
+"Down\n"
+"Left\n"
+"Right"
+msgstr ""
+
+#. ID 19, Page 1, Line 1, Pos (9,5)
+#. Choice (4 options)
+msgid ""
+"Guy above me faces Up\n"
+"Down\n"
+"Left\n"
+"Right"
+msgstr ""
+
+#. ID 25, Page 1, Line 1, Pos (11,9)
+msgid "Alex is in the party"
+msgstr ""
+
+#. ID 26, Page 1, Line 1, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+msgid "Do you want Alex in your party?"
+msgstr ""
+
+#. ID 28, Page 1, Line 1, Pos (12,11)
+msgid "Enter new name for Alex"
+msgstr ""
+
+#. ID 29, Page 1, Line 1, Pos (12,9)
+msgid "Alex is named Alex"
+msgstr ""
+
+#. ID 30, Page 1, Line 1, Pos (13,11)
+msgid "Enter new level for Alex"
+msgstr ""
+
+#. ID 31, Page 1, Line 1, Pos (13,9)
+msgid "Alex level is >= 25"
+msgstr ""
+
+#. ID 32, Page 1, Line 1, Pos (14,9)
+msgid "Alex HP is >= 50"
+msgstr ""
+
+#. ID 33, Page 1, Line 1, Pos (14,11)
+msgid "Enter HP for Alex"
+msgstr ""
+
+#. ID 34, Page 1, Line 1, Pos (11,7)
+msgid "I was triggered by action key"
+msgstr ""
+
+#. ID 34, Page 1, Line 3, Pos (11,7)
+msgid "Yepp!"
+msgstr ""
+
+#. ID 34, Page 1, Line 6, Pos (11,7)
+msgid ""
+"Nope!\n"
+"(Probably by collision)"
+msgstr ""
+
+#. ID 35, Page 1, Line 1, Pos (15,9)
+msgid "Alex has iron sword equipped"
+msgstr ""
+
+#. ID 36, Page 1, Line 1, Pos (16,9)
+msgid "Alex has skill Roar"
+msgstr ""
+
+#. ID 37, Page 1, Line 1, Pos (16,11)
+#. Contains choice at line 2 (2 options)
+msgid "Add skill Roar to Alex?"
+msgstr ""
+

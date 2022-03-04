@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (7,12)
+msgid "Adding Member N°0005 (Enrike)"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (8,12)
+msgid "Remove Member N°0005 (Enrike)"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (10,12)
+msgid ""
+"Adding any member from variable 0006\n"
+"Set the variable 0006 (Range 1-8)"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (11,12)
+msgid ""
+"Removing any member from variable 0006\n"
+"Set the variable 0006 (Range 0-8)"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (8,10)
+msgid ""
+"Removing Alex, Carol and Helen.\n"
+"There's no members in the party, game continues\n"
+"Go to the bottom left of the map to get Alex\n"
+"back."
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (7,10)
+msgid "Add Alex, Carol and Helen"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (10,10)
+msgid ""
+"Adding no-valid hero -0048\n"
+"RPG_RT will exit."
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (11,10)
+msgid ""
+"Removing no-valid hero -0048\n"
+"RPG_RT will exit."
+msgstr ""
+

@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (4,9)
+msgid "Looping 5 times and breaking"
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (4,9)
+#. ID 3, Page 1, Line 6, Pos (4,7)
+msgid "Loop \\v[1]"
+msgstr ""
+
+#. ID 2, Page 1, Line 12, Pos (4,9)
+#. ID 3, Page 1, Line 11, Pos (4,7)
+msgid "Done \\v[1]"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (4,7)
+msgid ""
+"Jumping to label 5 times\n"
+"FIXME"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (5,7)
+msgid "Jumping downwards"
+msgstr ""
+
+#. ID 4, Page 1, Line 3, Pos (5,7)
+msgid "FAIL"
+msgstr ""
+
+#. ID 4, Page 1, Line 5, Pos (5,7)
+#. ID 5, Page 1, Line 2, Pos (5,9)
+msgid "OK"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (5,9)
+msgid "Breaking outside of a loop"
+msgstr ""
+
+#. ID 5, Page 1, Line 4, Pos (5,9)
+msgid "ERROR"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (6,7)
+msgid "Jumping to invalid label"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (6,7)
+#. ID 7, Page 1, Line 2, Pos (7,7)
+msgid "1"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (6,7)
+#. ID 7, Page 1, Line 5, Pos (7,7)
+msgid "2"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (7,7)
+msgid "Same label multiple times"
+msgstr ""
+
+#. ID 7, Page 1, Line 7, Pos (7,7)
+msgid "3"
+msgstr ""
+
