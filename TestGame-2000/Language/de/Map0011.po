@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (9,12)
+msgid ""
+"Add item \"Test item\" (code 0002) once. \n"
+"Look your items."
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (5,12)
+msgid "I'm here beacuse you have \"Test item\""
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (10,12)
+msgid "Remove item \"Test item\" (code 0002) once."
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (9,10)
+msgid ""
+"Add 6 items \"Test item\" (code 0002). Look your \n"
+"items."
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (10,10)
+msgid "Remove 6 items \"Test item\" (code 0002)."
+msgstr ""
+
+#. ID 6, Page 1, Line 2, Pos (9,8)
+msgid ""
+"Add (Var 0005) items \"Test item\" (code 0002).\n"
+"Look your items. (Var 0005=8)"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (10,8)
+msgid ""
+"Remove (Var 0005) items \"Test item\" (code 0002).\n"
+"(Var 0005=8)"
+msgstr ""
+
+#. ID 8, Page 1, Line 2, Pos (9,6)
+msgid ""
+"Add 3 items \"(Var 0007)\" (Var 0007=2, is \n"
+"\"Test item\"). Look your items. "
+msgstr ""
+
+#. ID 9, Page 1, Line 2, Pos (10,6)
+msgid ""
+"Remove 3 items \"(Var 0007)\" (Var 0007=2, is \n"
+"\"Test item\")."
+msgstr ""
+
+#. ID 10, Page 1, Line 2, Pos (14,9)
+msgid ""
+"Add (Var 0005) items \"Test item\" (code 0002).\n"
+"Look your items. (Var 0005=-6) Watch out!\n"
+"Nothing should happen."
+msgstr ""
+
+#. ID 11, Page 1, Line 2, Pos (15,9)
+msgid ""
+"Remove (Var 0005) items \"Test item\" (code 0002).\n"
+"(Var 0005=-9) Watch out!\n"
+"Nothing should happen."
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (16,9)
+msgid ""
+"Add 3 items \"(Var 0007)\" (Var 0007=-4, Watch \n"
+"out!).  Looking your items causes a error in \n"
+"RPG_RT 1.51 "
+msgstr ""
+

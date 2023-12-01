@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (7,5)
+msgid ""
+"Show battle animation to Hero,\n"
+"wait until finish."
+msgstr ""
+
+#. ID 1, Page 1, Line 4, Pos (7,5)
+msgid "Finished"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (3,10)
+msgid "I'm EV0002."
+msgstr ""
+
+#. ID 2, Page 1, Line 2, Pos (3,10)
+msgid ""
+"Show battle animation to myself.\n"
+"No wait."
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (8,5)
+msgid ""
+"Show battle animation to Hero,\n"
+"no wait."
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (9,5)
+msgid ""
+"Show battle animation to whole map.\n"
+"(But hero selected to apply FX)\n"
+"No wait."
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (10,5)
+msgid ""
+"Show battle animation to EV0002.\n"
+"No wait."
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (12,5)
+msgid ""
+"Show battle animation to EV0002, myself and \n"
+"hero at the same time, same animation.\n"
+"No wait. (RPG_RT only shows last battle \n"
+"animation: to hero)."
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (13,5)
+msgid ""
+"Show battle animation to EV0002, myself and \n"
+"hero, 0.5 sec pause one each other, same anim.\n"
+"No wait. (RPG_RT aborts last animation to \n"
+"show the new one)."
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (14,5)
+msgid ""
+"Show battle animation to EV0002, myself and \n"
+"hero at the same time, different animations.\n"
+"No wait. (RPG_RT only shows last battle \n"
+"animation: to hero)."
+msgstr ""
+

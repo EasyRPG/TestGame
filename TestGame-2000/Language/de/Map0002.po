@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 1, Pos (9,15)
+#. ID 13, Page 1, Line 1, Pos (10,15)
+#. ID 14, Page 1, Line 1, Pos (11,15)
+#. ID 15, Page 1, Line 1, Pos (12,15)
+#. ID 16, Page 1, Line 1, Pos (13,15)
+#. ID 25, Page 1, Line 1, Pos (9,13)
+#. ID 27, Page 1, Line 1, Pos (8,13)
+#. ID 29, Page 1, Line 1, Pos (7,13)
+#. ID 31, Page 1, Line 1, Pos (6,13)
+msgid "Adding more heroes to your party to test this well."
+msgstr ""
+
+#. ID 48, Page 1, Line 1, Pos (16,8)
+msgid ""
+"Characters standing on white tiles mark test\n"
+"cases that are expected to pass in EasyRPG Player."
+msgstr ""
+
+#. ID 50, Page 1, Line 1, Pos (13,7)
+msgid "Adding Skills Teleport and Escape to Alex."
+msgstr ""
+

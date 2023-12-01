@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (9,7)
+msgid "0 GP Inn (It don't ask)"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (11,7)
+msgid "100 GP Inn (with branches)"
+msgstr ""
+
+#. ID 2, Page 1, Line 4, Pos (11,7)
+#. ID 3, Page 1, Line 5, Pos (13,7)
+msgid "True"
+msgstr ""
+
+#. ID 2, Page 1, Line 7, Pos (11,7)
+#. ID 3, Page 1, Line 8, Pos (13,7)
+msgid "False"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (13,7)
+msgid ""
+"0 GP Inn (with branches)\n"
+"(It don't ask, return True)"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (5,9)
+msgid "How much gold do you want?"
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (5,9)
+msgid "Ok, \\V[0001] gold added."
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (7,7)
+msgid "100 GP Inn"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (16,9)
+msgid "100 GP Inn with A dialogue."
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (16,10)
+msgid "100 GP Inn with B dialogue."
+msgstr ""
+

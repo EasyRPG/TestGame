@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (13,13)
+msgid "This map (30x30) does not have any scrolling."
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (14,13)
+#. ID 4, Page 1, Line 1, Pos (2,2)
+#. ID 9, Page 1, Line 1, Pos (26,2)
+#. ID 10, Page 1, Line 1, Pos (26,27)
+#. ID 11, Page 1, Line 1, Pos (2,27)
+msgid "Fix screen"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (15,13)
+#. ID 5, Page 1, Line 1, Pos (3,2)
+#. ID 6, Page 1, Line 1, Pos (3,27)
+#. ID 7, Page 1, Line 1, Pos (27,27)
+#. ID 8, Page 1, Line 1, Pos (27,2)
+msgid ""
+"Cancel Fix ( Cam focus must be more below to \n"
+"normal. Fixes after hero movement in the map)"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (15,15)
+msgid ""
+"Move screen 4 tiles up, 4 tiles left, 4 tiles\n"
+"down, 4 tiles right, normal speed, wait.\n"
+"Screen must be at the same place of start."
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (14,15)
+msgid "Pan screen 8 tiles up, normal speed, no wait."
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (13,15)
+#. ID 15, Page 1, Line 1, Pos (4,2)
+#. ID 16, Page 1, Line 1, Pos (25,2)
+#. ID 17, Page 1, Line 1, Pos (25,27)
+#. ID 18, Page 1, Line 1, Pos (4,27)
+msgid "Return original position, vel 4, wait."
+msgstr ""
+
+#. ID 19, Page 1, Line 1, Pos (16,15)
+msgid ""
+"Doing a 2 Pan screen command combo:\n"
+"> 4 tiles up, normal speed. (no wait)\n"
+"> 6 tiles left, 1/8 speed. (wait).\n"
+"( Executes a 1/8 diagonal pan, wait)."
+msgstr ""
+
+#. ID 19, Page 1, Line 7, Pos (16,15)
+msgid "Now return to original position (vel 5, wait)."
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (10,13)
+msgid ""
+"Pan 20 tiles down, vel 5, no wait. \n"
+"(Pan must stop when reaches the end of map)."
+msgstr ""
+
+#. ID 21, Page 1, Line 1, Pos (10,15)
+msgid ""
+"Testing al speeds, with 2 pan's:\n"
+"> 6 tiles left\n"
+"> Return original\n"
+"(wait)."
+msgstr ""
+
+#. ID 21, Page 1, Line 17, Pos (10,15)
+msgid "Finished"
+msgstr ""
+

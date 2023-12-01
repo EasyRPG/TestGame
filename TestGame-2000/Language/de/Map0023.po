@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (8,9)
+msgid ""
+"Change graphic of Alex to the last \n"
+"chara of Chara1.png (that's me!)"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (9,11)
+#. Choice (2 options)
+msgid ""
+"Remove alex/add brian\n"
+"Remove brian/add alex"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (9,9)
+msgid ""
+"Change graphic of Brian to the second\n"
+"chara of Chara1.png (that's me!)"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (8,7)
+msgid ""
+"Change face of Alex to the last \n"
+"face of Chara1.png (this one)"
+msgstr ""
+
+#. ID 5, Page 1, Line 2, Pos (9,7)
+msgid ""
+"Change face of Brian to the second\n"
+"face of Chara1.png (this one)"
+msgstr ""
+

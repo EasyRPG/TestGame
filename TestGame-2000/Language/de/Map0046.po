@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (4,8)
+msgid "Off"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (6,8)
+msgid "Rain, low"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (6,7)
+msgid "Rain, medium"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (6,6)
+msgid "Rain, high"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (8,8)
+msgid "Snow, low"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (8,7)
+msgid "Snow, medium"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (8,6)
+msgid "Snow, high"
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (12,8)
+msgid "Fog (RM2003), low"
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (10,9)
+msgid ""
+"Events to the right are RPG Maker 2003 only \n"
+"weather efects."
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (14,8)
+msgid "Sandstorm (RM2003), low"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (12,7)
+msgid "Fog (RM2003), medium"
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (12,6)
+msgid "Fog (RM2003), high"
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (14,7)
+msgid "Sandstorm (RM2003), medium"
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (14,6)
+msgid "Sandstorm (RM2003), high"
+msgstr ""
+

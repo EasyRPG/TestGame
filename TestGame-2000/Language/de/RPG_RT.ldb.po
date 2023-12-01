@@ -1,0 +1,3526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Alex"
+msgstr ""
+
+#. ID 1
+#. ID 2
+msgctxt "actors.title"
+msgid "Soldier"
+msgstr ""
+
+#. ID 1
+msgctxt "actors.skill_name"
+msgid "sorcery"
+msgstr ""
+
+#. ID 2
+msgctxt "actors.name"
+msgid "Brian"
+msgstr ""
+
+#. ID 3
+msgctxt "actors.name"
+msgid "Carol"
+msgstr ""
+
+#. ID 3
+msgctxt "actors.title"
+msgid "Magician"
+msgstr ""
+
+#. ID 4
+msgctxt "actors.name"
+msgid "Deiji"
+msgstr ""
+
+#. ID 4
+msgctxt "actors.title"
+msgid "Priest"
+msgstr ""
+
+#. ID 5
+msgctxt "actors.name"
+msgid "Enrike"
+msgstr ""
+
+#. ID 5
+msgctxt "actors.title"
+msgid "Hand Fighter"
+msgstr ""
+
+#. ID 6
+msgctxt "actors.name"
+msgid "Arkon"
+msgstr ""
+
+#. ID 6
+msgctxt "actors.title"
+msgid "Thief"
+msgstr ""
+
+#. ID 7
+msgctxt "actors.name"
+msgid "Homes"
+msgstr ""
+
+#. ID 7
+msgctxt "actors.title"
+msgid "Pirate"
+msgstr ""
+
+#. ID 8
+msgctxt "actors.name"
+msgid "Helen"
+msgstr ""
+
+#. ID 8
+msgctxt "actors.title"
+msgid "Elf"
+msgstr ""
+
+#. ID 1
+#. ID 50
+msgctxt "skills.name"
+msgid "Poison"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.description"
+msgid "Poisons the enemy"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.using_message1"
+msgid " uses poison"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.name"
+msgid "Test"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.description"
+msgid "Dark strike at an enemy"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.using_message1"
+msgid " uses dark strike"
+msgstr ""
+
+#. ID 3
+#. ID 55
+msgctxt "skills.name"
+msgid "Sleep"
+msgstr ""
+
+#. ID 3
+msgctxt "skills.description"
+msgid "Causes an enemy to go into deep sleep"
+msgstr ""
+
+#. ID 3
+msgctxt "skills.using_message1"
+msgid " chants sleep"
+msgstr ""
+
+#. ID 4
+#. ID 29
+msgctxt "skills.name"
+msgid "Paralysis"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.description"
+msgid "Paralyze's an enemy"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.using_message1"
+msgid " chants Paralysis"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.name"
+msgid "Flame Field"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.description"
+msgid "Creates a flame field around all enemys"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.using_message1"
+msgid " calls flame field"
+msgstr ""
+
+#. ID 6
+msgctxt "skills.name"
+msgid "Snow Storm"
+msgstr ""
+
+#. ID 6
+msgctxt "skills.description"
+msgid "Causes a Snow storm to hit all the enemies"
+msgstr ""
+
+#. ID 6
+msgctxt "skills.using_message1"
+msgid " calls a snow storm"
+msgstr ""
+
+#. ID 7
+msgctxt "skills.name"
+msgid "Electric Shock"
+msgstr ""
+
+#. ID 7
+msgctxt "skills.description"
+msgid "Calls an eletric shock to hit all enemies"
+msgstr ""
+
+#. ID 7
+msgctxt "skills.using_message1"
+msgid " calls eletric shock"
+msgstr ""
+
+#. ID 8
+#. ID 97
+msgctxt "skills.name"
+msgid "Tidal Wave"
+msgstr ""
+
+#. ID 8
+msgctxt "skills.description"
+msgid "Calls a tidal wave to hit all enemies"
+msgstr ""
+
+#. ID 8
+msgctxt "skills.using_message1"
+msgid " calls tidal wave"
+msgstr ""
+
+#. ID 9
+#. ID 98
+msgctxt "skills.name"
+msgid "Earth"
+msgstr ""
+
+#. ID 9
+msgctxt "skills.description"
+msgid "Calls the elemental earth to damage all enemies"
+msgstr ""
+
+#. ID 9
+msgctxt "skills.using_message1"
+msgid " uses earth"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.name"
+msgid "Trick"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.description"
+msgid "A unknown spell suposedly damages all enemys"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.using_message1"
+msgid " casts trick"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.name"
+msgid "Ultra Poison"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.description"
+msgid "A stronger spell of Poison"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.using_message1"
+msgid " casts ultra poison"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.name"
+msgid "Ultra Sleep"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.description"
+msgid "A stronger spell of sleep"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.using_message1"
+msgid " casts ultra sleep"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.name"
+msgid "Poison dust"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.description"
+msgid "A spell of dust that causes poison"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.using_message1"
+msgid " casts posion dust"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.name"
+msgid "Blind Dust"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.description"
+msgid "A spell of dust that causes blindness"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.using_message1"
+msgid " casts blind dust"
+msgstr ""
+
+#. ID 15
+msgctxt "skills.name"
+msgid "Berserk Dust"
+msgstr ""
+
+#. ID 15
+msgctxt "skills.description"
+msgid "A spell of dust that causes beserk"
+msgstr ""
+
+#. ID 15
+msgctxt "skills.using_message1"
+msgid " casts beserk dust"
+msgstr ""
+
+#. ID 16
+msgctxt "skills.name"
+msgid "Chaos Pollen"
+msgstr ""
+
+#. ID 16
+msgctxt "skills.description"
+msgid "Causes chaos to all enemies "
+msgstr ""
+
+#. ID 16
+msgctxt "skills.using_message1"
+msgid " cast chaos pollen"
+msgstr ""
+
+#. ID 17
+msgctxt "skills.name"
+msgid "Paralysis Pollen"
+msgstr ""
+
+#. ID 17
+msgctxt "skills.description"
+msgid "Paralyzes all enemies"
+msgstr ""
+
+#. ID 17
+msgctxt "skills.using_message1"
+msgid " casts paralysis pollen"
+msgstr ""
+
+#. ID 18
+msgctxt "skills.name"
+msgid "Sound Wave"
+msgstr ""
+
+#. ID 18
+msgctxt "skills.description"
+msgid "Loud sound spell that makes all enemies go beserk"
+msgstr ""
+
+#. ID 18
+msgctxt "skills.using_message1"
+msgid " casts sound wave"
+msgstr ""
+
+#. ID 19
+msgctxt "skills.name"
+msgid "Super Sound Wave"
+msgstr ""
+
+#. ID 19
+msgctxt "skills.description"
+msgid "Loud sound spell that makes all enemies confused"
+msgstr ""
+
+#. ID 19
+msgctxt "skills.using_message1"
+msgid " supersonic waves go!"
+msgstr ""
+
+#. ID 20
+msgctxt "skills.name"
+msgid "Sleep Sound"
+msgstr ""
+
+#. ID 20
+msgctxt "skills.description"
+msgid "Loud sound scausing all enemies to go to sleep"
+msgstr ""
+
+#. ID 20
+msgctxt "skills.using_message1"
+msgid " casts sleep sound"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.name"
+msgid "Mist of Silence"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.description"
+msgid "Causes silence to all enimies"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.using_message1"
+msgid " casts mist of silence"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.name"
+msgid "Sleep Fog"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.description"
+msgid "A fog that puts all enemies to sleep"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.using_message1"
+msgid " calls sleep fog"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.name"
+msgid "Silence Song"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.description"
+msgid "A song that makes all enemies silenced"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.using_message1"
+msgid " sings silence song"
+msgstr ""
+
+#. ID 24
+msgctxt "skills.name"
+msgid "Childs Song"
+msgstr ""
+
+#. ID 24
+msgctxt "skills.description"
+msgid "A song that makes all enemies sleep"
+msgstr ""
+
+#. ID 24
+msgctxt "skills.using_message1"
+msgid " sings childs song"
+msgstr ""
+
+#. ID 25
+msgctxt "skills.name"
+msgid "Lure Song"
+msgstr ""
+
+#. ID 25
+msgctxt "skills.description"
+msgid "A song that makes all enemies confused"
+msgstr ""
+
+#. ID 25
+msgctxt "skills.using_message1"
+msgid " sings lure song"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.name"
+msgid "Sand Flash"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.description"
+msgid "A sand attack damages all enemies"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.using_message1"
+msgid "does Sand Flash"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.name"
+msgid "Radiant Ray"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.description"
+msgid "The whole of the enemy is made darkness condition."
+msgstr ""
+
+#. ID 27
+msgctxt "skills.using_message1"
+msgid " emitted glaring light!"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.name"
+msgid "Stun Weed"
+msgstr ""
+
+#. ID 28
+#. ID 29
+msgctxt "skills.description"
+msgid "Causes Paralysis to an enemy"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.using_message1"
+msgid " casts stun weed"
+msgstr ""
+
+#. ID 29
+msgctxt "skills.using_message1"
+msgid "casts paralysis"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.name"
+msgid "Blood Suck"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.description"
+msgid "Absorbs hp from a single enemy"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.using_message1"
+msgid " uses blood suck"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.name"
+msgid "Weird Dance"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.description"
+msgid "Absorbs Mp from all enemies"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.using_message1"
+msgid " uses wierd dance"
+msgstr ""
+
+#. ID 32
+msgctxt "skills.name"
+msgid "Body Blow"
+msgstr ""
+
+#. ID 32
+msgctxt "skills.description"
+msgid "Causes Hp damage and surprise to a single enemy"
+msgstr ""
+
+#. ID 32
+msgctxt "skills.using_message1"
+msgid "does a body blow"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.name"
+msgid "Fast Move"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.description"
+msgid "Causes surprise to a single enemy"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.using_message1"
+msgid " does a fast move"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "Roar"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.description"
+msgid "Causes MindBlow to all enemies"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.using_message1"
+msgid " does a loud roar"
+msgstr ""
+
+#. ID 35
+#. ID 48
+#. ID 57
+#. ID 70
+#. ID 73
+#. ID 128
+msgctxt "skills.name"
+msgid "--------------------"
+msgstr ""
+
+#. ID 36
+msgctxt "skills.name"
+msgid "Heal"
+msgstr ""
+
+#. ID 36
+msgctxt "skills.description"
+msgid "Raises hp by 30"
+msgstr ""
+
+#. ID 36
+msgctxt "skills.using_message1"
+msgid " casts heal"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.name"
+msgid "Heal Party"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.description"
+msgid "Raises hp of all by 30"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.using_message1"
+msgid "casts advanced heal"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.name"
+msgid "Heal Self"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.description"
+msgid "Cures 30hp of the caster"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.using_message1"
+msgid "casts restore"
+msgstr ""
+
+#. ID 39
+msgctxt "skills.name"
+msgid "Cure"
+msgstr ""
+
+#. ID 39
+msgctxt "skills.description"
+msgid "Restores 20 hp to the whole party"
+msgstr ""
+
+#. ID 39
+msgctxt "skills.using_message1"
+msgid "casts cure"
+msgstr ""
+
+#. ID 40
+msgctxt "skills.name"
+msgid "Recover"
+msgstr ""
+
+#. ID 40
+msgctxt "skills.description"
+msgid "Restores 80 hp to the whole party"
+msgstr ""
+
+#. ID 40
+msgctxt "skills.using_message1"
+msgid "casts recover"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.name"
+msgid "Savior"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.description"
+msgid "Restores 320 hp to all members "
+msgstr ""
+
+#. ID 41
+msgctxt "skills.using_message1"
+msgid "casts savior"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.name"
+msgid "Antidote"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.description"
+msgid "Cures Poison"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.using_message1"
+msgid " casts antidote"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.name"
+msgid "Medicine"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.description"
+msgid "Cures Poison,Blind,Silence,and Sleep"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.using_message1"
+msgid "cast medicine"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.name"
+msgid "Miracle"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.description"
+msgid "Cures any status ailment"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.using_message1"
+msgid "casts miracle"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.name"
+msgid "Raise"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.description"
+msgid "Revives a dead ally and restores 10 hp"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.using_message1"
+msgid " casts Raise"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.name"
+msgid "Phoenix"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.description"
+msgid "Revives a dead ally and restores 50 hp"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.using_message1"
+msgid "casts phoenix"
+msgstr ""
+
+#. ID 47
+msgctxt "skills.name"
+msgid "Revive"
+msgstr ""
+
+#. ID 47
+msgctxt "skills.description"
+msgid "Revives a dead ally and restores 100 hp"
+msgstr ""
+
+#. ID 47
+msgctxt "skills.using_message1"
+msgid "casts revive"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.name"
+msgid "Knockout"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.description"
+msgid "Causes all enemys to die"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.using_message1"
+msgid "attempts a knockout"
+msgstr ""
+
+#. ID 50
+msgctxt "skills.description"
+msgid "Causes all enemies to be poisioned"
+msgstr ""
+
+#. ID 50
+msgctxt "skills.using_message1"
+msgid " casts poison"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.name"
+msgid "Blind"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.description"
+msgid "Causes all enemies to be blinded"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.using_message1"
+msgid " casts blind"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.name"
+msgid "Silence"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.description"
+msgid "Causes all enemies to be silenced"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.using_message1"
+msgid " casts silence"
+msgstr ""
+
+#. ID 53
+msgctxt "skills.name"
+msgid "WildRun"
+msgstr ""
+
+#. ID 53
+msgctxt "skills.description"
+msgid "Causes all enemies to become berserk"
+msgstr ""
+
+#. ID 53
+msgctxt "skills.using_message1"
+msgid " casts beserk"
+msgstr ""
+
+#. ID 54
+msgctxt "skills.name"
+msgid "Confusion"
+msgstr ""
+
+#. ID 54
+msgctxt "skills.description"
+msgid "Causes all enemies to be confused"
+msgstr ""
+
+#. ID 54
+msgctxt "skills.using_message1"
+msgid " casts confusion"
+msgstr ""
+
+#. ID 55
+msgctxt "skills.description"
+msgid "Causes all enemies to fall asleep"
+msgstr ""
+
+#. ID 55
+msgctxt "skills.using_message1"
+msgid " casts sleep"
+msgstr ""
+
+#. ID 56
+msgctxt "skills.name"
+msgid "Paralyze"
+msgstr ""
+
+#. ID 56
+msgctxt "skills.description"
+msgid "Causes all enemies to be paralyzed"
+msgstr ""
+
+#. ID 56
+msgctxt "skills.using_message1"
+msgid " casts paralyze"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.name"
+msgid "Attack Up"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.description"
+msgid "Causes attack power to increase"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.using_message1"
+msgid "casts attack up"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.name"
+msgid "Attack Down"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.description"
+msgid "Decrease all enemies attack power"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.using_message1"
+msgid "casts attack down"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.name"
+msgid "Defense Up"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.description"
+msgid "Causes defense power to increase"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.using_message1"
+msgid "casts defense up"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.name"
+msgid "Defense Down"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.description"
+msgid "Decrease all enemies defense power"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.using_message1"
+msgid "casts defense down"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.name"
+msgid "Spirit Up"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.description"
+msgid "Causes mind force to rise"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.using_message1"
+msgid "casts Spirit Up"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.name"
+msgid "Spirit Down"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.description"
+msgid "Decrease all enemies mind force power"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.using_message1"
+msgid "casts spirit down"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.name"
+msgid "Speed Up"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.description"
+msgid "Causes speed to rise"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.using_message1"
+msgid "casts speed up"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.name"
+msgid "Speed Down"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.description"
+msgid "Causes all enemies speed to go down"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.using_message1"
+msgid "casts speed down"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.name"
+msgid "Heat Barrier"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.description"
+msgid "Protects The whole party against fire attacks"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.using_message1"
+msgid "casts heat barrier"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.name"
+msgid "Cold Barrier"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.description"
+msgid "Protects The whole party against ice attacks"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.using_message1"
+msgid "casts cold barrier"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.name"
+msgid "Hp Absorb"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.description"
+msgid "Absorbs 20 hp from an enemy"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.using_message1"
+msgid "casts hp absorb"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.name"
+msgid "Mp Absorb"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.description"
+msgid "Absorbs 20 mp from an enemy"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.using_message1"
+msgid "casts mp absorb"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.name"
+msgid "Teleport"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.description"
+msgid "Teleports to a visited place"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.using_message1"
+msgid "‚ÍƒeƒŒƒ|[ƒg‚ð¥‚¦‚½I"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.name"
+msgid "Escape"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.description"
+msgid "Escapes from a dungeon"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.using_message1"
+msgid "‚ÍƒGƒXƒP[ƒv‚ð¥‚¦‚½I"
+msgstr ""
+
+#. ID 74
+msgctxt "skills.name"
+msgid "Fire"
+msgstr ""
+
+#. ID 74
+#. ID 75
+#. ID 76
+msgctxt "skills.description"
+msgid "An attack with the elemental power of fire"
+msgstr ""
+
+#. ID 74
+#. ID 75
+msgctxt "skills.using_message1"
+msgid "casts flame"
+msgstr ""
+
+#. ID 75
+msgctxt "skills.name"
+msgid "Flame"
+msgstr ""
+
+#. ID 76
+msgctxt "skills.name"
+msgid "Fire Ball"
+msgstr ""
+
+#. ID 76
+msgctxt "skills.using_message1"
+msgid "casts fire ball"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.name"
+msgid "Flame Line"
+msgstr ""
+
+#. ID 77
+#. ID 78
+#. ID 79
+msgctxt "skills.description"
+msgid "A fire attack that damages all enemies"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.using_message1"
+msgid "cast flame line"
+msgstr ""
+
+#. ID 78
+msgctxt "skills.name"
+msgid "Flame Blast"
+msgstr ""
+
+#. ID 78
+msgctxt "skills.using_message1"
+msgid "casts flame blast"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.name"
+msgid "Brush Fire"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.using_message1"
+msgid "casts brush fire"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.name"
+msgid "Ice"
+msgstr ""
+
+#. ID 80
+#. ID 81
+#. ID 82
+msgctxt "skills.description"
+msgid "An attack with the elemental power of ice"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.using_message1"
+msgid "casts ice"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.name"
+msgid "Ice Crystal"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.using_message1"
+msgid "casts ice crystal"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.name"
+msgid "Frost"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.using_message1"
+msgid "casts frost"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.name"
+msgid "Frost Wave"
+msgstr ""
+
+#. ID 83
+#. ID 84
+#. ID 85
+msgctxt "skills.description"
+msgid "A ice attack that damages all enemies"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.using_message1"
+msgid "casts frost wave"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.name"
+msgid "Icicle"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.using_message1"
+msgid "casts icicle"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.name"
+msgid "Winter"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.using_message1"
+msgid "casts winter"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.name"
+msgid "Thunder"
+msgstr ""
+
+#. ID 86
+#. ID 87
+#. ID 88
+msgctxt "skills.description"
+msgid "An attack with the elemental power of thunder"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.using_message1"
+msgid "casts thunder"
+msgstr ""
+
+#. ID 87
+msgctxt "skills.name"
+msgid "Flash"
+msgstr ""
+
+#. ID 87
+msgctxt "skills.using_message1"
+msgid "uses flash"
+msgstr ""
+
+#. ID 88
+msgctxt "skills.name"
+msgid "Lightning"
+msgstr ""
+
+#. ID 88
+msgctxt "skills.using_message1"
+msgid "casts lightning"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.name"
+msgid "Sparkle"
+msgstr ""
+
+#. ID 89
+#. ID 90
+#. ID 91
+msgctxt "skills.description"
+msgid "A thunder attack that damages all enemies"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.using_message1"
+msgid "casts sparkle"
+msgstr ""
+
+#. ID 90
+msgctxt "skills.name"
+msgid "Lightning Dance"
+msgstr ""
+
+#. ID 90
+msgctxt "skills.using_message1"
+msgid "  casts lightning dance"
+msgstr ""
+
+#. ID 91
+msgctxt "skills.name"
+msgid "Blast"
+msgstr ""
+
+#. ID 91
+msgctxt "skills.using_message1"
+msgid "casts blast"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.name"
+msgid "Water Tunnel"
+msgstr ""
+
+#. ID 92
+#. ID 93
+#. ID 94
+msgctxt "skills.description"
+msgid "An attack with the elemental power of water"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.using_message1"
+msgid "casts water tunnel"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.name"
+msgid "Water  Beam"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.using_message1"
+msgid "casts water beam"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.name"
+msgid "Bubbles"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.using_message1"
+msgid "casts bubbles"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.name"
+msgid "Water Smash"
+msgstr ""
+
+#. ID 95
+#. ID 96
+#. ID 97
+msgctxt "skills.description"
+msgid "A water attack that damages all enemies"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.using_message1"
+msgid "cast water smash"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.name"
+msgid "Massive Bubbles"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.using_message1"
+msgid "casts massive bubbles"
+msgstr ""
+
+#. ID 97
+msgctxt "skills.using_message1"
+msgid "calls a tidal wave"
+msgstr ""
+
+#. ID 98
+#. ID 99
+#. ID 100
+msgctxt "skills.description"
+msgid "An attack with the elemental power of earth"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.using_message1"
+msgid "casts stone egg!"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.name"
+msgid "Rock throw"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.using_message1"
+msgid "casts rock throw"
+msgstr ""
+
+#. ID 100
+msgctxt "skills.name"
+msgid "Quake"
+msgstr ""
+
+#. ID 100
+msgctxt "skills.using_message1"
+msgid "casts quake"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.name"
+msgid "Earth Smash"
+msgstr ""
+
+#. ID 101
+#. ID 102
+#. ID 103
+msgctxt "skills.description"
+msgid "An earth attack that damages all enemies"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.using_message1"
+msgid "casts earth smash"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.name"
+msgid "Stone Thorn"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.using_message1"
+msgid "casts stone thorn"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.name"
+msgid "Earth Quake"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.using_message1"
+msgid "casts earth quake"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.name"
+msgid "Wind"
+msgstr ""
+
+#. ID 104
+#. ID 105
+#. ID 106
+msgctxt "skills.description"
+msgid "An attack with the elemental power of wind"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.using_message1"
+msgid "casts wind"
+msgstr ""
+
+#. ID 105
+msgctxt "skills.name"
+msgid "Gust"
+msgstr ""
+
+#. ID 105
+msgctxt "skills.using_message1"
+msgid "casts gust"
+msgstr ""
+
+#. ID 106
+msgctxt "skills.name"
+msgid "Wind Tunnel"
+msgstr ""
+
+#. ID 106
+msgctxt "skills.using_message1"
+msgid "casts wind tunnel"
+msgstr ""
+
+#. ID 107
+msgctxt "skills.name"
+msgid "Hurricane"
+msgstr ""
+
+#. ID 107
+#. ID 108
+#. ID 109
+msgctxt "skills.description"
+msgid "A strong wind attack"
+msgstr ""
+
+#. ID 107
+msgctxt "skills.using_message1"
+msgid "casts hurricane"
+msgstr ""
+
+#. ID 108
+msgctxt "skills.name"
+msgid "Tornado"
+msgstr ""
+
+#. ID 108
+msgctxt "skills.using_message1"
+msgid "casts tornado"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.name"
+msgid "Wind Blast"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.using_message1"
+msgid "cast wind blast"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.name"
+msgid "Holy"
+msgstr ""
+
+#. ID 110
+#. ID 111
+#. ID 112
+msgctxt "skills.description"
+msgid "An attack with a holy attribute"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.using_message1"
+msgid "casts holy"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.name"
+msgid "Chat"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.using_message1"
+msgid "does a chant"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.name"
+msgid "Prayer"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.using_message1"
+msgid "does a prayer"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.name"
+msgid "Star Light"
+msgstr ""
+
+#. ID 113
+#. ID 114
+#. ID 115
+msgctxt "skills.description"
+msgid "A holy attack that damages all enemies"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.using_message1"
+msgid "casts star light"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.name"
+msgid "Holy Flash"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.using_message1"
+msgid "casts holy flash"
+msgstr ""
+
+#. ID 115
+msgctxt "skills.name"
+msgid "Preist Light"
+msgstr ""
+
+#. ID 115
+msgctxt "skills.using_message1"
+msgid "casts priest light"
+msgstr ""
+
+#. ID 116
+msgctxt "skills.name"
+msgid "Dark Bolt"
+msgstr ""
+
+#. ID 116
+msgctxt "skills.description"
+msgid "A bolt of darkness"
+msgstr ""
+
+#. ID 116
+msgctxt "skills.using_message1"
+msgid "casts dark bolt"
+msgstr ""
+
+#. ID 117
+msgctxt "skills.name"
+msgid "Dark Wave"
+msgstr ""
+
+#. ID 117
+msgctxt "skills.description"
+msgid "A wave of darkness"
+msgstr ""
+
+#. ID 117
+msgctxt "skills.using_message1"
+msgid "cast dark wave"
+msgstr ""
+
+#. ID 118
+msgctxt "skills.name"
+msgid "Dark Smash"
+msgstr ""
+
+#. ID 118
+msgctxt "skills.description"
+msgid "A smash of darkness"
+msgstr ""
+
+#. ID 118
+msgctxt "skills.using_message1"
+msgid "casts dark smash"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.name"
+msgid "Dark Flash"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.description"
+msgid "A dark flash"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.using_message1"
+msgid "casts dark flash"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.name"
+msgid "Dark Ghosts"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.description"
+msgid "A wave of ghosts"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.using_message1"
+msgid "casts dark ghosts"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.name"
+msgid "Darkness"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.description"
+msgid "A overwhelming force of Darkness"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.using_message1"
+msgid "casts darkness"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.name"
+msgid "Holy Sound"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.description"
+msgid "A holy sound"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.using_message1"
+msgid "casts holy sound"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.name"
+msgid "Holy Cross"
+msgstr ""
+
+#. ID 123
+#. ID 124
+msgctxt "skills.description"
+msgid "A holy attack"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.using_message1"
+msgid "casts holy cross"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.name"
+msgid "Holy Sparkle"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.using_message1"
+msgid "casts holy sparkle"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.name"
+msgid "Holy Savior"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.description"
+msgid "A holy savior spell"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.using_message1"
+msgid "casts holy savior"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.name"
+msgid "Creation"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.description"
+msgid "A holy spell of creation"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.using_message1"
+msgid "casts creation"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.name"
+msgid "Ultima"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.description"
+msgid "The holy spell of ultima"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.using_message1"
+msgid "casts ultima"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.name"
+msgid "Switch On!"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.description"
+msgid "Activates Switch 0002"
+msgstr ""
+
+#. ID 1
+msgctxt "items.name"
+msgid "Potion"
+msgstr ""
+
+#. ID 1
+msgctxt "items.description"
+msgid "Recovers 50 hp"
+msgstr ""
+
+#. ID 2
+msgctxt "items.name"
+msgid "Test item"
+msgstr ""
+
+#. ID 2
+msgctxt "items.description"
+msgid "Recovers 250 HP"
+msgstr ""
+
+#. ID 3
+msgctxt "items.name"
+msgid "Magic Ether"
+msgstr ""
+
+#. ID 3
+msgctxt "items.description"
+msgid "Restore 80 mp"
+msgstr ""
+
+#. ID 4
+msgctxt "items.name"
+msgid "Miracle Drop"
+msgstr ""
+
+#. ID 4
+msgctxt "items.description"
+msgid "Restores Mp and Hp to 100%"
+msgstr ""
+
+#. ID 5
+msgctxt "items.name"
+msgid "Phoenix Down"
+msgstr ""
+
+#. ID 5
+msgctxt "items.description"
+msgid "Revive  a  Dead  Ally"
+msgstr ""
+
+#. ID 6
+msgctxt "items.name"
+msgid "Antidote"
+msgstr ""
+
+#. ID 6
+msgctxt "items.description"
+msgid "Cures  Poison"
+msgstr ""
+
+#. ID 7
+msgctxt "items.name"
+msgid "OmniAntidote"
+msgstr ""
+
+#. ID 7
+msgctxt "items.description"
+msgid "Cures  All  Bad  Conditions"
+msgstr ""
+
+#. ID 8
+msgctxt "items.name"
+msgid "Pocket Shelter"
+msgstr ""
+
+#. ID 8
+msgctxt "items.description"
+msgid "All Allies Full Recovery. (Unusable in  battle)"
+msgstr ""
+
+#. ID 9
+#. ID 16
+#. ID 43
+#. ID 52
+#. ID 66
+#. ID 75
+msgctxt "items.name"
+msgid "--------------------"
+msgstr ""
+
+#. ID 10
+msgctxt "items.name"
+msgid "Apple"
+msgstr ""
+
+#. ID 10
+msgctxt "items.description"
+msgid "Raises max Hp by 5"
+msgstr ""
+
+#. ID 11
+msgctxt "items.name"
+msgid "MP Apple"
+msgstr ""
+
+#. ID 11
+msgctxt "items.description"
+msgid "Raises Max mp by 5"
+msgstr ""
+
+#. ID 12
+msgctxt "items.name"
+msgid "Powr-Up"
+msgstr ""
+
+#. ID 12
+msgctxt "items.description"
+msgid "Raises attack power by 3"
+msgstr ""
+
+#. ID 13
+msgctxt "items.name"
+msgid "Defensive-Up"
+msgstr ""
+
+#. ID 13
+msgctxt "items.description"
+msgid "Raises defensive power by 3"
+msgstr ""
+
+#. ID 14
+msgctxt "items.name"
+msgid "Mind-Up"
+msgstr ""
+
+#. ID 14
+msgctxt "items.description"
+msgid "Raises mind force by 3"
+msgstr ""
+
+#. ID 15
+msgctxt "items.name"
+msgid "Speed Up"
+msgstr ""
+
+#. ID 15
+msgctxt "items.description"
+msgid "Raises agility by 3"
+msgstr ""
+
+#. ID 17
+msgctxt "items.name"
+msgid "Club"
+msgstr ""
+
+#. ID 17
+msgctxt "items.description"
+msgid "A club"
+msgstr ""
+
+#. ID 18
+msgctxt "items.name"
+msgid "Iron sword"
+msgstr ""
+
+#. ID 18
+msgctxt "items.description"
+msgid "The generally, widely used iron sword"
+msgstr ""
+
+#. ID 19
+msgctxt "items.name"
+msgid "Spear"
+msgstr ""
+
+#. ID 19
+msgctxt "items.description"
+msgid "A spear"
+msgstr ""
+
+#. ID 20
+msgctxt "items.name"
+msgid "Bow"
+msgstr ""
+
+#. ID 20
+msgctxt "items.description"
+msgid "A bow"
+msgstr ""
+
+#. ID 21
+msgctxt "items.name"
+msgid "Claw"
+msgstr ""
+
+#. ID 21
+msgctxt "items.description"
+msgid "A claw"
+msgstr ""
+
+#. ID 22
+msgctxt "items.name"
+msgid "Thin Blade"
+msgstr ""
+
+#. ID 22
+msgctxt "items.description"
+msgid "A thin blade"
+msgstr ""
+
+#. ID 23
+msgctxt "items.name"
+msgid "Iron Knuckle"
+msgstr ""
+
+#. ID 23
+msgctxt "items.description"
+msgid "An iron knuckle"
+msgstr ""
+
+#. ID 24
+msgctxt "items.name"
+msgid "Leather Fist"
+msgstr ""
+
+#. ID 24
+msgctxt "items.description"
+msgid "A fist of leather worn on the hands"
+msgstr ""
+
+#. ID 25
+msgctxt "items.name"
+msgid "Flint Spear"
+msgstr ""
+
+#. ID 25
+msgctxt "items.description"
+msgid "A spear with a flint head"
+msgstr ""
+
+#. ID 26
+msgctxt "items.name"
+msgid "Thick Blade"
+msgstr ""
+
+#. ID 26
+msgctxt "items.description"
+msgid "A thick blade"
+msgstr ""
+
+#. ID 27
+msgctxt "items.name"
+msgid "Long Bow"
+msgstr ""
+
+#. ID 27
+msgctxt "items.description"
+msgid "A long range bow"
+msgstr ""
+
+#. ID 28
+msgctxt "items.name"
+msgid "Axe"
+msgstr ""
+
+#. ID 28
+msgctxt "items.description"
+msgid "An axe"
+msgstr ""
+
+#. ID 29
+msgctxt "items.name"
+msgid "Katana"
+msgstr ""
+
+#. ID 29
+msgctxt "items.description"
+msgid "A nicely made sword"
+msgstr ""
+
+#. ID 30
+msgctxt "items.name"
+msgid "Arbalet"
+msgstr ""
+
+#. ID 30
+msgctxt "items.description"
+msgid "A kind of spear"
+msgstr ""
+
+#. ID 31
+msgctxt "items.name"
+msgid "Metal Fists"
+msgstr ""
+
+#. ID 31
+msgctxt "items.description"
+msgid "A glove made of metal that fits over ones hands"
+msgstr ""
+
+#. ID 32
+msgctxt "items.name"
+msgid "Soul Blade"
+msgstr ""
+
+#. ID 32
+msgctxt "items.description"
+msgid "A blade made out of one of the finest steels"
+msgstr ""
+
+#. ID 33
+msgctxt "items.name"
+msgid "Crossbow"
+msgstr ""
+
+#. ID 33
+msgctxt "items.description"
+msgid "An accurate and more effective bow"
+msgstr ""
+
+#. ID 34
+msgctxt "items.name"
+msgid "Spiked Knuckles"
+msgstr ""
+
+#. ID 34
+msgctxt "items.description"
+msgid "Strong knuckles with spikes on them"
+msgstr ""
+
+#. ID 35
+msgctxt "items.name"
+msgid "Bear Claws"
+msgstr ""
+
+#. ID 35
+msgctxt "items.description"
+msgid "Claws as strong as a bear"
+msgstr ""
+
+#. ID 36
+msgctxt "items.name"
+msgid "Bee Sting"
+msgstr ""
+
+#. ID 36
+msgctxt "items.description"
+msgid "A special made spear with incredible power"
+msgstr ""
+
+#. ID 37
+msgctxt "items.name"
+msgid "Long Sword"
+msgstr ""
+
+#. ID 37
+msgctxt "items.description"
+msgid "A very long but thin sword"
+msgstr ""
+
+#. ID 38
+msgctxt "items.name"
+msgid "Big Axe"
+msgstr ""
+
+#. ID 38
+msgctxt "items.description"
+msgid "A much bigger version of the axe"
+msgstr ""
+
+#. ID 39
+msgctxt "items.name"
+msgid "Ice Bow"
+msgstr ""
+
+#. ID 39
+msgctxt "items.description"
+msgid "A bow with the elemental power of ice"
+msgstr ""
+
+#. ID 40
+msgctxt "items.name"
+msgid "Dragon Claws"
+msgstr ""
+
+#. ID 40
+msgctxt "items.description"
+msgid "Claws with the power of a dragon"
+msgstr ""
+
+#. ID 41
+msgctxt "items.name"
+msgid "Titan Spear"
+msgstr ""
+
+#. ID 41
+msgctxt "items.description"
+msgid "The most powerful kind of spear ever made"
+msgstr ""
+
+#. ID 42
+msgctxt "items.name"
+msgid "Titanium Sword"
+msgstr ""
+
+#. ID 42
+msgctxt "items.description"
+msgid "A powerful sword made out of titanium"
+msgstr ""
+
+#. ID 44
+msgctxt "items.name"
+msgid "Wooden Shield"
+msgstr ""
+
+#. ID 44
+msgctxt "items.description"
+msgid "A shield made out of wood"
+msgstr ""
+
+#. ID 45
+msgctxt "items.name"
+msgid "Bronze Shield"
+msgstr ""
+
+#. ID 45
+msgctxt "items.description"
+msgid "A shield made out of bronze"
+msgstr ""
+
+#. ID 46
+msgctxt "items.name"
+msgid "Heavy Shield"
+msgstr ""
+
+#. ID 46
+msgctxt "items.description"
+msgid "A heavy but powerful shield"
+msgstr ""
+
+#. ID 47
+msgctxt "items.name"
+msgid "Iron Shield"
+msgstr ""
+
+#. ID 47
+msgctxt "items.description"
+msgid "A shield made of iron"
+msgstr ""
+
+#. ID 48
+msgctxt "items.name"
+msgid "Titanium Shield"
+msgstr ""
+
+#. ID 48
+msgctxt "items.description"
+msgid "A shield made from titanium"
+msgstr ""
+
+#. ID 49
+msgctxt "items.name"
+msgid "Body Shield"
+msgstr ""
+
+#. ID 49
+msgctxt "items.description"
+msgid "A powerful shield the size of the body"
+msgstr ""
+
+#. ID 50
+msgctxt "items.name"
+msgid "Sacred Shield"
+msgstr ""
+
+#. ID 50
+msgctxt "items.description"
+msgid "A holy shield"
+msgstr ""
+
+#. ID 51
+msgctxt "items.name"
+msgid "Dragon Scale"
+msgstr ""
+
+#. ID 51
+msgctxt "items.description"
+msgid "A shield with the toughness of a dragons scales"
+msgstr ""
+
+#. ID 53
+msgctxt "items.name"
+msgid "Robe"
+msgstr ""
+
+#. ID 53
+msgctxt "items.description"
+msgid "A robe made out of fine silk"
+msgstr ""
+
+#. ID 54
+msgctxt "items.name"
+msgid "Cloth Armor"
+msgstr ""
+
+#. ID 54
+msgctxt "items.description"
+msgid "The armor which was made with robust cloth"
+msgstr ""
+
+#. ID 55
+msgctxt "items.name"
+msgid "Wood Armor"
+msgstr ""
+
+#. ID 55
+msgctxt "items.description"
+msgid "An armor made of wood"
+msgstr ""
+
+#. ID 56
+msgctxt "items.name"
+msgid "Leather Armor"
+msgstr ""
+
+#. ID 56
+msgctxt "items.description"
+msgid "An Armor made of fine leather"
+msgstr ""
+
+#. ID 57
+msgctxt "items.name"
+msgid "Light Armor"
+msgstr ""
+
+#. ID 57
+msgctxt "items.description"
+msgid "Light but powerful armor"
+msgstr ""
+
+#. ID 58
+msgctxt "items.name"
+msgid "Heavy Armor"
+msgstr ""
+
+#. ID 58
+msgctxt "items.description"
+msgid "Heavier but more powerful armor"
+msgstr ""
+
+#. ID 59
+msgctxt "items.name"
+msgid "Steel Armor"
+msgstr ""
+
+#. ID 59
+msgctxt "items.description"
+msgid "Armor made from high quality steel"
+msgstr ""
+
+#. ID 60
+msgctxt "items.name"
+msgid "Iron Armor"
+msgstr ""
+
+#. ID 60
+msgctxt "items.description"
+msgid "Armor made from iron"
+msgstr ""
+
+#. ID 61
+msgctxt "items.name"
+msgid "Armadillo Armor"
+msgstr ""
+
+#. ID 61
+msgctxt "items.description"
+msgid "Tough armor made to look that of an armadillo's"
+msgstr ""
+
+#. ID 62
+msgctxt "items.name"
+msgid "Bronze Armor"
+msgstr ""
+
+#. ID 62
+msgctxt "items.description"
+msgid "Armor made of Bronze"
+msgstr ""
+
+#. ID 63
+msgctxt "items.name"
+msgid "Diamond Armor"
+msgstr ""
+
+#. ID 63
+msgctxt "items.description"
+msgid "Armor made of the toughest jewel a diamond"
+msgstr ""
+
+#. ID 64
+msgctxt "items.name"
+msgid "Titanium Armor"
+msgstr ""
+
+#. ID 64
+msgctxt "items.description"
+msgid "Armor made of pure titanium"
+msgstr ""
+
+#. ID 65
+msgctxt "items.name"
+msgid "Dragon Armor"
+msgstr ""
+
+#. ID 65
+msgctxt "items.description"
+msgid "Armor made from the tough scales of a dragon"
+msgstr ""
+
+#. ID 67
+msgctxt "items.name"
+msgid "Hat"
+msgstr ""
+
+#. ID 67
+msgctxt "items.description"
+msgid "A plain hat"
+msgstr ""
+
+#. ID 68
+msgctxt "items.name"
+msgid "Wood Helmet"
+msgstr ""
+
+#. ID 68
+msgctxt "items.description"
+msgid "A helmet made of wood"
+msgstr ""
+
+#. ID 69
+msgctxt "items.name"
+msgid "Leather Helmet"
+msgstr ""
+
+#. ID 69
+msgctxt "items.description"
+msgid "A helmet made of leather"
+msgstr ""
+
+#. ID 70
+msgctxt "items.name"
+msgid "Light Helmet"
+msgstr ""
+
+#. ID 70
+msgctxt "items.description"
+msgid "A light but powerful helmet"
+msgstr ""
+
+#. ID 71
+msgctxt "items.name"
+msgid "Heavy Helmet"
+msgstr ""
+
+#. ID 71
+msgctxt "items.description"
+msgid "A heavier but more powerful helmet"
+msgstr ""
+
+#. ID 72
+msgctxt "items.name"
+msgid "Steel Helmet"
+msgstr ""
+
+#. ID 72
+msgctxt "items.description"
+msgid "A helmet made of steel"
+msgstr ""
+
+#. ID 73
+msgctxt "items.name"
+msgid "Iron Helmet"
+msgstr ""
+
+#. ID 73
+msgctxt "items.description"
+msgid "A helmet made of iron"
+msgstr ""
+
+#. ID 74
+msgctxt "items.name"
+msgid "Dragon Helmet"
+msgstr ""
+
+#. ID 74
+msgctxt "items.description"
+msgid "A helmet made from dragon scales"
+msgstr ""
+
+#. ID 76
+msgctxt "items.name"
+msgid "Talisman"
+msgstr ""
+
+#. ID 76
+msgctxt "items.description"
+msgid "Allows an ally to kill any enemy"
+msgstr ""
+
+#. ID 77
+msgctxt "items.name"
+msgid "Magic Pedant"
+msgstr ""
+
+#. ID 77
+msgctxt "items.description"
+msgid "Half's the mp cost"
+msgstr ""
+
+#. ID 78
+msgctxt "items.name"
+msgid "Safe Tea Boots"
+msgstr ""
+
+#. ID 78
+msgctxt "items.description"
+msgid "Can walk over any terrain without damage."
+msgstr ""
+
+#. ID 79
+msgctxt "items.name"
+msgid "Bandana"
+msgstr ""
+
+#. ID 79
+msgctxt "items.description"
+msgid "A bandana that increases the attack by 5"
+msgstr ""
+
+#. ID 80
+msgctxt "items.name"
+msgid "Magic Ring"
+msgstr ""
+
+#. ID 80
+msgctxt "items.description"
+msgid "Increase mind force by 7"
+msgstr ""
+
+#. ID 81
+msgctxt "items.name"
+msgid "Switcher"
+msgstr ""
+
+#. ID 81
+msgctxt "items.description"
+msgid "Enables Switch 0001"
+msgstr ""
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "Slime"
+msgstr ""
+
+#. ID 2
+msgctxt "enemies.name"
+msgid "Bat"
+msgstr ""
+
+#. ID 3
+msgctxt "enemies.name"
+msgid "Spider"
+msgstr ""
+
+#. ID 4
+msgctxt "enemies.name"
+msgid "Snake"
+msgstr ""
+
+#. ID 5
+msgctxt "enemies.name"
+msgid "Big Snake"
+msgstr ""
+
+#. ID 6
+msgctxt "enemies.name"
+msgid "Mystic Knight"
+msgstr ""
+
+#. ID 7
+msgctxt "enemies.name"
+msgid "Ghost"
+msgstr ""
+
+#. ID 8
+msgctxt "enemies.name"
+msgid "Ice Flame"
+msgstr ""
+
+#. ID 9
+msgctxt "enemies.name"
+msgid "Mystic Fish"
+msgstr ""
+
+#. ID 10
+msgctxt "enemies.name"
+msgid "Will-o'-the-wisp"
+msgstr ""
+
+#. ID 11
+msgctxt "enemies.name"
+msgid "Messenger Demon"
+msgstr ""
+
+#. ID 12
+msgctxt "enemies.name"
+msgid "Skeleton"
+msgstr ""
+
+#. ID 13
+msgctxt "enemies.name"
+msgid "Phosphorous Gobu"
+msgstr ""
+
+#. ID 14
+msgctxt "enemies.name"
+msgid "Zombie"
+msgstr ""
+
+#. ID 15
+msgctxt "enemies.name"
+msgid "Oak"
+msgstr ""
+
+#. ID 16
+msgctxt "enemies.name"
+msgid "Golem"
+msgstr ""
+
+#. ID 17
+msgctxt "enemies.name"
+msgid "Wolf"
+msgstr ""
+
+#. ID 18
+msgctxt "enemies.name"
+msgid "Mimic"
+msgstr ""
+
+#. ID 19
+msgctxt "enemies.name"
+msgid "Rich"
+msgstr ""
+
+#. ID 20
+msgctxt "enemies.name"
+msgid "Lizadrman"
+msgstr ""
+
+#. ID 21
+msgctxt "enemies.name"
+msgid "Ghoul"
+msgstr ""
+
+#. ID 22
+msgctxt "enemies.name"
+msgid "Scythe Demon"
+msgstr ""
+
+#. ID 23
+msgctxt "enemies.name"
+msgid "Knight"
+msgstr ""
+
+#. ID 24
+msgctxt "enemies.name"
+msgid "Medusa"
+msgstr ""
+
+#. ID 25
+msgctxt "enemies.name"
+msgid "Purple Dragon"
+msgstr ""
+
+#. ID 26
+msgctxt "enemies.name"
+msgid "Hell Knight"
+msgstr ""
+
+#. ID 27
+msgctxt "enemies.name"
+msgid "Thief"
+msgstr ""
+
+#. ID 28
+msgctxt "enemies.name"
+msgid "Chimera"
+msgstr ""
+
+#. ID 29
+msgctxt "enemies.name"
+msgid "Dark Elf"
+msgstr ""
+
+#. ID 30
+msgctxt "enemies.name"
+msgid "Gargoyle"
+msgstr ""
+
+#. ID 31
+msgctxt "enemies.name"
+msgid "Harpy"
+msgstr ""
+
+#. ID 32
+msgctxt "enemies.name"
+msgid "Minotaur"
+msgstr ""
+
+#. ID 33
+msgctxt "enemies.name"
+msgid "Unholy angel"
+msgstr ""
+
+#. ID 34
+msgctxt "enemies.name"
+msgid "Red Scorpion"
+msgstr ""
+
+#. ID 35
+msgctxt "enemies.name"
+msgid "Dragon"
+msgstr ""
+
+#. ID 36
+msgctxt "enemies.name"
+msgid "Wraith"
+msgstr ""
+
+#. ID 37
+msgctxt "enemies.name"
+msgid "Levithan"
+msgstr ""
+
+#. ID 38
+msgctxt "enemies.name"
+msgid "Dark Knight"
+msgstr ""
+
+#. ID 39
+msgctxt "enemies.name"
+msgid "Blue Dragon"
+msgstr ""
+
+#. ID 40
+msgctxt "enemies.name"
+msgid "Demon"
+msgstr ""
+
+#. ID 41
+msgctxt "enemies.name"
+msgid "Mistress"
+msgstr ""
+
+#. ID 42
+msgctxt "enemies.name"
+msgid "Cobra"
+msgstr ""
+
+#. ID 43
+msgctxt "enemies.name"
+msgid "Knight Dragon"
+msgstr ""
+
+#. ID 44
+msgctxt "enemies.name"
+msgid "Demon King"
+msgstr ""
+
+#. ID 45
+msgctxt "enemies.name"
+msgid "Witch"
+msgstr ""
+
+#. ID 1
+msgctxt "states.name"
+msgid "Dead"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid " has fallen!"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid " collapses!"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid " has revived!"
+msgstr ""
+
+#. ID 2
+msgctxt "states.name"
+msgid "Poison"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_actor"
+msgid " has been poisoned"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_enemy"
+msgid " has been poisoned"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_recovery"
+msgid " is no longer poisoned"
+msgstr ""
+
+#. ID 3
+msgctxt "states.name"
+msgid "Blind"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_actor"
+msgid " is now blind"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_enemy"
+msgid " has become blind"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_recovery"
+msgid " is no longer blind"
+msgstr ""
+
+#. ID 4
+msgctxt "states.name"
+msgid "Silence"
+msgstr ""
+
+#. ID 4
+msgctxt "states.message_actor"
+msgid " has become silenced"
+msgstr ""
+
+#. ID 4
+msgctxt "states.message_enemy"
+msgid " has become silenced"
+msgstr ""
+
+#. ID 4
+msgctxt "states.message_recovery"
+msgid " is no longer silenced"
+msgstr ""
+
+#. ID 5
+msgctxt "states.name"
+msgid "Berserk"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_actor"
+msgid " has become beserk"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_enemy"
+msgid " has become beserk"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_recovery"
+msgid " is no longer beserk"
+msgstr ""
+
+#. ID 6
+msgctxt "states.name"
+msgid "Chaos"
+msgstr ""
+
+#. ID 6
+msgctxt "states.message_actor"
+msgid " is now confused"
+msgstr ""
+
+#. ID 6
+msgctxt "states.message_enemy"
+msgid " has become confused"
+msgstr ""
+
+#. ID 6
+msgctxt "states.message_recovery"
+msgid " is no longer confused"
+msgstr ""
+
+#. ID 7
+msgctxt "states.name"
+msgid "Sleep"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_actor"
+msgid " has fallen fast asleep"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_enemy"
+msgid " falls fast asleep"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_recovery"
+msgid " is now awake"
+msgstr ""
+
+#. ID 8
+msgctxt "states.name"
+msgid "Numb"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_actor"
+msgid " has become numb"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_enemy"
+msgid " has become numb"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_recovery"
+msgid " is no longer numb"
+msgstr ""
+
+#. ID 9
+msgctxt "states.name"
+msgid "Shock"
+msgstr ""
+
+#. ID 9
+msgctxt "states.message_actor"
+msgid " has become shocked for a move"
+msgstr ""
+
+#. ID 9
+msgctxt "states.message_enemy"
+msgid " has become shocked for a move"
+msgstr ""
+
+#. ID 9
+msgctxt "states.message_recovery"
+msgid " is no longer shocked"
+msgstr ""
+
+#. ID 10
+msgctxt "states.name"
+msgid "MindBlow"
+msgstr ""
+
+#. ID 10
+msgctxt "states.message_actor"
+msgid " mind has been blown"
+msgstr ""
+
+#. ID 10
+msgctxt "states.message_enemy"
+msgid " mind has been blown"
+msgstr ""
+
+#. ID 10
+msgctxt "states.message_recovery"
+msgid " is no longer under mindblow"
+msgstr ""
+
+msgctxt "terms.encounter"
+msgid " emerges!"
+msgstr ""
+
+msgctxt "terms.special_combat"
+msgid " Pre-emptive attack"
+msgstr ""
+
+msgctxt "terms.escape_success"
+msgid " You ran away safely!"
+msgstr ""
+
+msgctxt "terms.escape_failure"
+msgid " You Failed to escape..."
+msgstr ""
+
+msgctxt "terms.victory"
+msgid " You won a combat!"
+msgstr ""
+
+msgctxt "terms.defeat"
+msgid " Your Party has Perished"
+msgstr ""
+
+msgctxt "terms.exp_received"
+msgid " EXP"
+msgstr ""
+
+msgctxt "terms.gold_recieved_a"
+msgid " You found"
+msgstr ""
+
+msgctxt "terms.gold_recieved_b"
+msgid " money!"
+msgstr ""
+
+msgctxt "terms.item_recieved"
+msgid " recieved!"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid " attacks the enemy"
+msgstr ""
+
+msgctxt "terms.enemy_critical"
+msgid " A critical hit!"
+msgstr ""
+
+msgctxt "terms.actor_critical"
+msgid " A critical blow!"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid " defends."
+msgstr ""
+
+msgctxt "terms.observing"
+msgid " is waiting and watching."
+msgstr ""
+
+msgctxt "terms.focus"
+msgid " is building strength."
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid " pounces."
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid " runs away!"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid " transforms."
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid " hp is lost"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid " misses"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid " hp is lost"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid " misses"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid " Failed"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid " Failed"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid " Failed"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid " dodges"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "uses"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid " Recovered"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid " "
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "Defense increases!"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "Defense Decreases!"
+msgstr ""
+
+msgctxt "terms.level_up"
+msgid "Raised a level!"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid "Acquired"
+msgstr ""
+
+msgctxt "terms.shop_greeting1"
+msgid "How can i help you?"
+msgstr ""
+
+msgctxt "terms.shop_regreeting1"
+msgid "Hurry up and buy!!!"
+msgstr ""
+
+msgctxt "terms.shop_buy1"
+msgid " Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell1"
+msgid " Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave1"
+msgid " Leave"
+msgstr ""
+
+msgctxt "terms.shop_buy_select1"
+msgid " What do you want to buy?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number1"
+msgid " How Many"
+msgstr ""
+
+msgctxt "terms.shop_purchased1"
+msgid " Done"
+msgstr ""
+
+msgctxt "terms.shop_sell_select1"
+msgid " What do you wish to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number1"
+msgid " How many"
+msgstr ""
+
+msgctxt "terms.shop_sold1"
+msgid " Thank you!"
+msgstr ""
+
+msgctxt "terms.shop_greeting2"
+msgid "Hurry up would you please!"
+msgstr ""
+
+msgctxt "terms.shop_regreeting2"
+msgid "Hurry up already!!!"
+msgstr ""
+
+msgctxt "terms.shop_buy2"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell2"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave2"
+msgid "Leave"
+msgstr ""
+
+msgctxt "terms.shop_buy_select2"
+msgid "Bought"
+msgstr ""
+
+msgctxt "terms.shop_buy_number2"
+msgid "How Many"
+msgstr ""
+
+msgctxt "terms.shop_purchased2"
+msgid "Done"
+msgstr ""
+
+msgctxt "terms.shop_sell_select2"
+msgid "Sold"
+msgstr ""
+
+msgctxt "terms.shop_sell_number2"
+msgid "How many"
+msgstr ""
+
+msgctxt "terms.shop_sold2"
+msgid "Go now!"
+msgstr ""
+
+msgctxt "terms.shop_greeting3"
+msgid "Good day!"
+msgstr ""
+
+msgctxt "terms.shop_regreeting3"
+msgid "I dont have all day you know!!!!"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "BUY"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "SELL"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "GO HOME"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "Bought"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "How much?"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "Done"
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "Sold"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "How many?"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "Thanx!"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "Only"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_2"
+msgid " to rest here"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "Do you wish to rest here?"
+msgstr ""
+
+msgctxt "terms.inn_a_accept"
+msgid "Yes"
+msgstr ""
+
+msgctxt "terms.inn_a_cancel"
+msgid "No"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "Its only"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_2"
+msgid " for the night"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "Do you wish to stay here for the night?"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "Yes"
+msgstr ""
+
+msgctxt "terms.inn_b_cancel"
+msgid "No"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "Owned Items"
+msgstr ""
+
+msgctxt "terms.equipped_items"
+msgid "Equipped Items"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "GP2"
+msgstr ""
+
+msgctxt "terms.battle_fight"
+msgid "Fight"
+msgstr ""
+
+msgctxt "terms.battle_auto"
+msgid "AutoBattle"
+msgstr ""
+
+msgctxt "terms.battle_escape"
+msgid "Run away"
+msgstr ""
+
+msgctxt "terms.command_attack"
+msgid "Attack"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "Defense"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "Item$A"
+msgstr ""
+
+msgctxt "terms.command_skill"
+msgid "Tech Skill"
+msgstr ""
+
+msgctxt "terms.menu_equipment"
+msgid "Equipment"
+msgstr ""
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "terms.menu_quit"
+msgid "End Game$c"
+msgstr ""
+
+msgctxt "terms.new_game"
+msgid "Start"
+msgstr ""
+
+msgctxt "terms.load_game"
+msgid "Load"
+msgstr ""
+
+msgctxt "terms.exit_game"
+msgid "End"
+msgstr ""
+
+msgctxt "terms.level"
+msgid "LEVEL"
+msgstr ""
+
+msgctxt "terms.health_points"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "MP"
+msgstr ""
+
+msgctxt "terms.normal_status"
+msgid "Normal"
+msgstr ""
+
+msgctxt "terms.exp_short"
+msgid "Ex"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "L"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "H"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "M"
+msgstr ""
+
+msgctxt "terms.sp_cost"
+msgid "Cost"
+msgstr ""
+
+msgctxt "terms.attack"
+msgid "Attack"
+msgstr ""
+
+msgctxt "terms.defense"
+msgid "Defence"
+msgstr ""
+
+msgctxt "terms.spirit"
+msgid "Mental"
+msgstr ""
+
+msgctxt "terms.agility"
+msgid "Ability"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "Arms"
+msgstr ""
+
+msgctxt "terms.shield"
+msgid "Shield"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "Armor"
+msgstr ""
+
+msgctxt "terms.helmet"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "terms.accessory"
+msgid "Stuff"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "Save in which slot?"
+msgstr ""
+
+msgctxt "terms.load_game_message"
+msgid "Load which slot?"
+msgstr ""
+
+msgctxt "terms.file"
+msgid "File"
+msgstr ""
+
+msgctxt "terms.exit_game_message"
+msgid "End game?"
+msgstr ""
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr ""
+
+msgctxt "terms.no"
+msgid "No"
+msgstr ""
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+

@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (2,9)
+msgid "Choices (4 choices, no cancel option)"
+msgstr ""
+
+#. ID 1, Page 1, Line 2, Pos (2,9)
+#. Choice (4 options)
+#. ID 9, Page 1, Line 4, Pos (8,9)
+#. Choice (4 options)
+#. ID 10, Page 1, Line 4, Pos (9,9)
+#. Choice (4 options)
+#. ID 11, Page 1, Line 4, Pos (3,9)
+#. Choice (4 options)
+msgid ""
+"Choice 1\n"
+"Choice 2\n"
+"Choice 3\n"
+"12345678901234567890123456789012"
+msgstr ""
+
+#. ID 1, Page 1, Line 4, Pos (2,9)
+#. ID 2, Page 1, Line 4, Pos (5,9)
+#. ID 3, Page 1, Line 4, Pos (6,9)
+#. ID 4, Page 1, Line 4, Pos (6,6)
+#. ID 5, Page 1, Line 4, Pos (4,6)
+#. ID 6, Page 1, Line 5, Pos (3,6)
+#. ID 7, Page 1, Line 6, Pos (2,6)
+#. ID 8, Page 1, Line 4, Pos (7,6)
+#. ID 9, Page 1, Line 6, Pos (8,9)
+#. ID 10, Page 1, Line 6, Pos (9,9)
+#. ID 11, Page 1, Line 6, Pos (3,9)
+msgid "Choice 1 has choosen"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (2,9)
+#. ID 2, Page 1, Line 7, Pos (5,9)
+#. ID 3, Page 1, Line 7, Pos (6,9)
+#. ID 5, Page 1, Line 7, Pos (4,6)
+#. ID 6, Page 1, Line 8, Pos (3,6)
+#. ID 9, Page 1, Line 9, Pos (8,9)
+#. ID 10, Page 1, Line 9, Pos (9,9)
+#. ID 11, Page 1, Line 9, Pos (3,9)
+msgid "Choice 2 has choosen"
+msgstr ""
+
+#. ID 1, Page 1, Line 10, Pos (2,9)
+#. ID 2, Page 1, Line 10, Pos (5,9)
+#. ID 3, Page 1, Line 10, Pos (6,9)
+#. ID 5, Page 1, Line 10, Pos (4,6)
+#. ID 9, Page 1, Line 12, Pos (8,9)
+#. ID 10, Page 1, Line 12, Pos (9,9)
+#. ID 11, Page 1, Line 12, Pos (3,9)
+msgid "Choice 3 has choosen"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (2,9)
+#. ID 2, Page 1, Line 13, Pos (5,9)
+#. ID 3, Page 1, Line 13, Pos (6,9)
+#. ID 9, Page 1, Line 15, Pos (8,9)
+#. ID 10, Page 1, Line 15, Pos (9,9)
+#. ID 11, Page 1, Line 15, Pos (3,9)
+msgid "Choice 4 has choosen"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (5,9)
+msgid "Choices (4 choices, cancel option)"
+msgstr ""
+
+#. ID 2, Page 1, Line 2, Pos (5,9)
+#. Choice (4 options)
+#. ID 3, Page 1, Line 2, Pos (6,9)
+#. Choice (4 options)
+msgid ""
+"Choice 1\n"
+"Choice 2\n"
+"Choice 3\n"
+"Choice 4"
+msgstr ""
+
+#. ID 2, Page 1, Line 16, Pos (5,9)
+msgid "Cancel option has choosen"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (6,9)
+msgid "Choices (4 choices, cancel choose option 3)"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (6,6)
+#. Contains choice at line 2 (1 options)
+msgid "Choices (1 choose)"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (6,6)
+#. Choice (1 options, embedded in a message)
+#. ID 7, Page 1, Line 4, Pos (2,6)
+#. Choice (1 options, embedded in a message)
+msgid "Choice 1"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (4,6)
+#. Contains choice at line 2 (3 options)
+msgid "The choice screen will appear inside this message."
+msgstr ""
+
+#. ID 5, Page 1, Line 2, Pos (4,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Choice 1\n"
+"Choice 2\n"
+"Choice 3"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (3,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"The choice screen will appear inside this message.\n"
+"Lorem ipsum dolor sit amet, consectetur"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Choice 1\n"
+"Choice 2"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (2,6)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"The choice screen will appear inside this message.\n"
+"Lorem ipsum dolor sit amet, consectetur\n"
+"ue dolor, rhoncus id semper in, porta in massa."
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (7,6)
+#. Contains choice at line 2 (1 options)
+msgid "Choices (no choices?)"
+msgstr ""
+
+#. ID 9, Page 1, Line 2, Pos (8,9)
+msgid ""
+"Choices (4 choices, no cancel option)\n"
+"Face on the left side."
+msgstr ""
+
+#. ID 10, Page 1, Line 2, Pos (9,9)
+msgid ""
+"Choices (4 choices, no cancel option)\n"
+"Face on the right side."
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (3,9)
+msgid ""
+"Choices (4 choices, no cancel option)\n"
+"Background is transparent."
+msgstr ""
+

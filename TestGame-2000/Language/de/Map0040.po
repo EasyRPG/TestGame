@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (2,5)
+msgid "All color spectrum"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (1,7)
+msgid "Reset Screen Tone to 100,100,100,100"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (2,7)
+msgid ""
+"Screen Tone to 80,80,80,100, 3,0 sec transition,\n"
+"wait."
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (3,7)
+msgid ""
+"Screen Tone to 120,80,60,100, 3,0 sec transition,\n"
+"no wait."
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (12,2)
+msgid "Red"
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (12,5)
+msgid "Green"
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (12,8)
+msgid "Blue"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (12,11)
+msgid "Chroma"
+msgstr ""
+
+#. ID 33, Page 1, Line 2, Pos (10,11)
+msgid ""
+"You must not see the map.\n"
+"Return to screen tone 100,100,100,100."
+msgstr ""
+

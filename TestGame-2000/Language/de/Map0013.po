@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (8,10)
+msgid "Add 10 EXP to all group"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (7,10)
+msgid ""
+"Add 2000 EXP to all group. Message if level \n"
+"up in some hero."
+msgstr ""
+
+#. ID 3, Page 1, Line 2, Pos (8,4)
+msgid ""
+"Add 999999 EXP to Deiji. EXP and level \n"
+"now must be max (Level 50)"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (7,8)
+msgid "Add (var 0002) EXP to all group. (Var 0002=80)"
+msgstr ""
+
+#. ID 5, Page 1, Line 2, Pos (9,10)
+msgid "Remove 100 EXP from all group"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (8,8)
+msgid ""
+"Add 80 EXP to hero (Var 0002). (Var 0002=4)\n"
+"Code 0004=Deiji"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (9,8)
+msgid "Add 80 EXP to Carol."
+msgstr ""
+
+#. ID 8, Page 1, Line 2, Pos (8,6)
+msgid ""
+"Add 999999 EXP to Carol. EXP and level \n"
+"now must be max (Level 45)"
+msgstr ""
+
+#. ID 9, Page 1, Line 2, Pos (9,6)
+msgid ""
+"Remove 999999 EXP from Carol. EXP now must be 0 \n"
+"and her level must be 1"
+msgstr ""
+
+#. ID 11, Page 1, Line 2, Pos (9,4)
+msgid ""
+"Remove 999999 EXP from Deijil. EXP now must be 0 \n"
+"and his level must be 1"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (3,8)
+msgid ""
+"Doing Full Recovery. Check on level down (EXP \n"
+"decreased) if HP and MP are correctly adjusted!"
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (8,2)
+msgid ""
+"Add (var 0002) EXP to all group.\n"
+"(Var 0002=-10000).\n"
+"RPG_RT will not handle level down correctly."
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (9,2)
+msgid ""
+"Remove (var 0002) EXP from all group.\n"
+"(Var 0002=-10000).\n"
+"RPG_RT will not handle level up correctly."
+msgstr ""
+

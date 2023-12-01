@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (8,11)
+msgid "This is your money \\$"
+msgstr ""
+
+#. ID 2, Page 1, Line 2, Pos (9,11)
+msgid "Add 653 to your money \\$"
+msgstr ""
+
+#. ID 3, Page 1, Line 2, Pos (10,11)
+msgid "Remove 486 from your money \\$"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (11,11)
+msgid ""
+"Remove 999999 from your money. Your money now\n"
+"must be zero \\$"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (12,11)
+msgid ""
+"Add 999999 twice to your money. Watch out! The money\n"
+"now must be 999999 \\$"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (8,9)
+msgid "Set Variable 9 to 487 and add to your money. \\$"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (9,9)
+msgid "Set Variable 9 to 487 and remove from your money. \\$"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (10,9)
+msgid ""
+"Set Variable 9 to -487 and add to your money.\n"
+"Rpg Maker Bug: Money can underflow below 0. \\$"
+msgstr ""
+
+#. ID 10, Page 1, Line 3, Pos (11,9)
+msgid ""
+"Set Variable 9 to -487 and decrease from your\n"
+"money.\n"
+"RPG Maker bug: Money can overflow above 999.999"
+msgstr ""
+
