@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (5,9)
+msgid ""
+"Flash screen\n"
+"31, 31, 31, 31, 0,5 seg, no wait"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (6,9)
+msgid ""
+"Flash screen\n"
+"31, 31, 31, 31, 3 seg, wait"
+msgstr ""
+
+#. ID 19, Page 1, Line 1, Pos (7,9)
+msgid ""
+"Flash screen\n"
+"31, 31, 31, 31, 0,0 seg, no wait"
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (9,9)
+msgid ""
+"Flash screen\n"
+"23, 07, 19, 20, 0,5 seg, no wait"
+msgstr ""
+
+#. ID 21, Page 1, Line 1, Pos (2,6)
+msgid "Red"
+msgstr ""
+
+#. ID 22, Page 1, Line 1, Pos (4,6)
+msgid "Green"
+msgstr ""
+
+#. ID 23, Page 1, Line 1, Pos (6,6)
+msgid "Blue"
+msgstr ""
+
+#. ID 24, Page 1, Line 1, Pos (8,6)
+msgid "Power"
+msgstr ""
+

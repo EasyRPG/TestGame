@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[1]Speed 1"
+msgstr ""
+
+#. ID 1, Page 1, Line 3, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[2]Speed 2"
+msgstr ""
+
+#. ID 1, Page 1, Line 5, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[3]Speed 3"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[4]Speed 4"
+msgstr ""
+
+#. ID 1, Page 1, Line 9, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[5]Speed 5"
+msgstr ""
+
+#. ID 1, Page 1, Line 11, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[6]Speed 6"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[7]Speed 7"
+msgstr ""
+
+#. ID 1, Page 1, Line 15, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[8]Speed 8"
+msgstr ""
+
+#. ID 1, Page 1, Line 17, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[9]Speed 9"
+msgstr ""
+
+#. ID 1, Page 1, Line 19, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[10]Speed 10"
+msgstr ""
+
+#. ID 1, Page 1, Line 21, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[11]Speed 11"
+msgstr ""
+
+#. ID 1, Page 1, Line 23, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[12]Speed 12"
+msgstr ""
+
+#. ID 1, Page 1, Line 25, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[13]Speed 13"
+msgstr ""
+
+#. ID 1, Page 1, Line 27, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[14]Speed 14"
+msgstr ""
+
+#. ID 1, Page 1, Line 29, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[15]Speed 15"
+msgstr ""
+
+#. ID 1, Page 1, Line 31, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[16]Speed 16"
+msgstr ""
+
+#. ID 1, Page 1, Line 33, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[17]Speed 17"
+msgstr ""
+
+#. ID 1, Page 1, Line 35, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[18]Speed 18"
+msgstr ""
+
+#. ID 1, Page 1, Line 37, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[19]Speed 19"
+msgstr ""
+
+#. ID 1, Page 1, Line 39, Pos (5,5)
+msgid ""
+"Testing message speed:\n"
+"\\s[20]Speed 20"
+msgstr ""
+
+#. ID 1, Page 1, Line 41, Pos (5,5)
+msgid ""
+"Testing out-of-range speed codes:\n"
+"\\s[36]Speed 36\n"
+"\\s[-80]Speed -80"
+msgstr ""
+
+#. ID 1, Page 1, Line 44, Pos (5,5)
+msgid ""
+"Doing speed combos:\n"
+"Lorem ipsum\\s[15] dolor sit \\s[2]amet, consectetur \n"
+"adipiscing elit. \\s[12]Nulla at\\s[6] suscipit massa. \n"
+"\\s[20]Cras\\s[8] in lorem\\s[1] mi. "
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (8,9)
+msgid "This is a Message."
+msgstr ""
+
+#. ID 2, Page 1, Line 2, Pos (8,9)
+msgid "Message skip works."
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (4,5)
+msgid ""
+"Show a \"slash\" sign\n"
+"\\\\"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (6,5)
+msgid ""
+"Showing the hero name in position ID 4\n"
+"\\n[0004]"
+msgstr ""
+
+#. ID 4, Page 1, Line 3, Pos (6,5)
+msgid ""
+"Showing the hero name in position ID a.\n"
+"Rpg_Rt 1.51 will crash now, Enjoy :)."
+msgstr ""
+
+#. ID 4, Page 1, Line 5, Pos (6,5)
+msgid "\\n[a]"
+msgstr ""
+
+#. ID 5, Page 1, Line 2, Pos (7,3)
+msgid ""
+"Showing the hero name in position ID\n"
+"in the var N° 0009. (Var 0009=2)\n"
+"\\N[\\v[0009]]\n"
+" "
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (7,5)
+msgid ""
+"Showing the value of the variable 0007\n"
+"\\v[0007]"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (8,5)
+msgid ""
+"Showing your money\n"
+"\\$"
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (9,5)
+msgid ""
+"Showing instant speed messages.\n"
+"\\>This is a instant message  \\<---\n"
+"This is a non instant message."
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[0]Color 0"
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[1]Color 1"
+msgstr ""
+
+#. ID 9, Page 1, Line 5, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[2]Color 2"
+msgstr ""
+
+#. ID 9, Page 1, Line 7, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[3]Color 3"
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[4]Color 4"
+msgstr ""
+
+#. ID 9, Page 1, Line 11, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[5]Color 5"
+msgstr ""
+
+#. ID 9, Page 1, Line 13, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[6]Color 6"
+msgstr ""
+
+#. ID 9, Page 1, Line 15, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[7]Color 7"
+msgstr ""
+
+#. ID 9, Page 1, Line 17, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[8]Color 8"
+msgstr ""
+
+#. ID 9, Page 1, Line 19, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[9]Color 9"
+msgstr ""
+
+#. ID 9, Page 1, Line 21, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[10]Color 10"
+msgstr ""
+
+#. ID 9, Page 1, Line 23, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[11]Color 11"
+msgstr ""
+
+#. ID 9, Page 1, Line 25, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[12]Color 12"
+msgstr ""
+
+#. ID 9, Page 1, Line 27, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[13]Color 13"
+msgstr ""
+
+#. ID 9, Page 1, Line 29, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[14]Color 14"
+msgstr ""
+
+#. ID 9, Page 1, Line 31, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[15]Color 15"
+msgstr ""
+
+#. ID 9, Page 1, Line 33, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[16]Color 16"
+msgstr ""
+
+#. ID 9, Page 1, Line 35, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[17]Color 17"
+msgstr ""
+
+#. ID 9, Page 1, Line 37, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[18]Color 18"
+msgstr ""
+
+#. ID 9, Page 1, Line 39, Pos (10,5)
+msgid ""
+"Showing different colors in messages.\n"
+"\\c[19]Color 19"
+msgstr ""
+
+#. ID 9, Page 1, Line 41, Pos (10,5)
+msgid ""
+"Chossing a out-of-range color code.\n"
+"\\c[36]Color 36\n"
+"\\c[-80]Color -80"
+msgstr ""
+
+#. ID 9, Page 1, Line 44, Pos (10,5)
+msgid ""
+"Doing color combos.\n"
+"Lorem ipsum \\c[4]dolor sit amet, consectetur \n"
+"adipiscing elit.\\c[16] Nulla at suscipit massa. \n"
+"Cras in \\c[2]lorem mi. "
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (11,5)
+msgid ""
+"Test pauses in the message.\n"
+"Press key to continue... \\!\n"
+"The message has continued"
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (12,5)
+msgid ""
+"Test waiting times in message (0.25 sec):\n"
+"\\.1\\.2\\.3\\.4\\.5\\.6\\.7\\.8"
+msgstr ""
+
+#. ID 11, Page 1, Line 3, Pos (12,5)
+msgid ""
+"Test waiting times in message (1 sec):\n"
+"\\|1\\|2\\|3"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (13,5)
+msgid "Killing messages. Press a key to continue"
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (13,5)
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur \n"
+"adipiscing elit. Nulla at suscipit massa.\n"
+" Cras in lorem mi. \\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (8,3)
+msgid ""
+"Doing some command combos in messages:\n"
+"\\>\\C[4]1234\\C[0]\\< \\S[5]\\V[0003] \\..\\..\\..\\|\\^"
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (9,9)
+msgid ""
+"Special message icons:\n"
+"$A$B$C$D$E$F$G$H$I$J$K$L$M$N$O$P$Q$R$S$T$U$V$W$X$Y$Z\n"
+"$a$b$c$d$e$f$g$h$i$j$k$l$m$n$o$p$q$r$s$t$u$v$w$x$y$z\n"
+"Last icons per row: $Y and $y. Missing: $Z and $z"
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (14,5)
+msgid ""
+"Testing half size spaces:\n"
+"This\\_message\\_has\\_half\\_size\\_spaces."
+msgstr ""
+
+#. ID 16, Page 1, Line 1, Pos (9,3)
+msgid ""
+"Showing messages commands with wrong parameters\n"
+"(Watch out!)"
+msgstr ""
+
+#. ID 16, Page 1, Line 3, Pos (9,3)
+msgid ""
+"Showing variable -0003\n"
+"\\v[-0003]"
+msgstr ""
+
+#. ID 16, Page 1, Line 5, Pos (9,3)
+msgid ""
+"Showing variable \"hi\"\n"
+"\\v[hi]"
+msgstr ""
+
+#. ID 16, Page 1, Line 7, Pos (9,3)
+msgid ""
+"Showing variable 2.8\n"
+"\\v[2.8]"
+msgstr ""
+
+#. ID 16, Page 1, Line 9, Pos (9,3)
+msgid ""
+"Showing variable 10000 (out of range)\n"
+"\\v[10000]"
+msgstr ""
+
+#. ID 16, Page 1, Line 11, Pos (9,3)
+msgid ""
+"Picking color W\n"
+"\\c[w]Test"
+msgstr ""
+
+#. ID 16, Page 1, Line 13, Pos (9,3)
+msgid ""
+"Picking color 3.1415\n"
+"\\c[3.1415]Test"
+msgstr ""
+
+#. ID 16, Page 1, Line 15, Pos (9,3)
+msgid ""
+"Picking color 0001\n"
+"\\c[0001]Test"
+msgstr ""
+
+#. ID 17, Page 1, Line 4, Pos (10,3)
+msgid ""
+"Showing variable 0003 (= 42)\n"
+"\\v[0003]"
+msgstr ""
+
+#. ID 17, Page 1, Line 6, Pos (10,3)
+msgid ""
+"Showing variable 3\n"
+"\\v[3]"
+msgstr ""
+
+#. ID 17, Page 1, Line 8, Pos (10,3)
+msgid ""
+"Showing variable via indirect access.\n"
+"Accessing Var 4 (=3) and use this as param for \\\\v\n"
+"This is an EasyRPG Extension\n"
+"\\v[\\v[4]]"
+msgstr ""
+
+#. ID 17, Page 1, Line 12, Pos (10,3)
+msgid ""
+"Showing message using color value from variable 4\n"
+"\\c[\\v[4]]This text is colored\\c[0]\n"
+"EasyRPG Extension: Indirect over variable 5 (= 4):\n"
+"\\c[\\v[\\v[5]]]This text is colored too"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (10,9)
+msgid ""
+"Message length test.\n"
+"The X should be NOT visible."
+msgstr ""
+
+#. ID 18, Page 1, Line 3, Pos (10,9)
+msgid ""
+"12345678901234567890123456789012345678901234567890XXXXX\n"
+"ABCDEFGHIJKLMNOPQRSTUVWABCDEFGHIJKLMNOPQRSTUVWABCDXX\n"
+""
+msgstr ""
+
+#. ID 18, Page 1, Line 6, Pos (10,9)
+msgid ""
+"The ExFont should be not visible on the next line:\n"
+"1234567890123456789012345678901234567890123456789$A"
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (11,3)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "\\C[1]AAA\\"
+msgstr ""
+
+#. ID 20, Page 1, Line 2, Pos (11,3)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "C[2]BBB"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (11,3)
+msgid ""
+"Change Alex name to \"\\\\C[1]AAA\\\\\" and Brian to\n"
+"\"C[2]BBB\". Result:\n"
+"\\n[1]\\n[2]"
+msgstr ""
+
+#. ID 20, Page 1, Line 6, Pos (11,3)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Alex"
+msgstr ""
+
+#. ID 20, Page 1, Line 7, Pos (11,3)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Brian"
+msgstr ""
+

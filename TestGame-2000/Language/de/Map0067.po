@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (3,6)
+msgid "I'm here because teleport enabled Switch 5"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (4,6)
+msgid "I'm here because escape enabled Switch 6"
+msgstr ""
+

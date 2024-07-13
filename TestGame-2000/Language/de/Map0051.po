@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (13,10)
+msgid "Move down."
+msgstr ""
+
+#. ID 1, Page 1, Line 3, Pos (13,10)
+msgid "Move left."
+msgstr ""
+
+#. ID 1, Page 1, Line 5, Pos (13,10)
+msgid "Move up."
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (13,10)
+msgid "Move right."
+msgstr ""
+
+#. ID 1, Page 1, Line 9, Pos (13,10)
+msgid "Move right-up."
+msgstr ""
+
+#. ID 1, Page 1, Line 11, Pos (13,10)
+msgid "Move left-down."
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (13,10)
+msgid "Move left-up."
+msgstr ""
+
+#. ID 1, Page 1, Line 15, Pos (13,10)
+msgid "Move right-down."
+msgstr ""
+
+#. ID 1, Page 1, Line 17, Pos (13,10)
+#. ID 11, Page 1, Line 24, Pos (15,8)
+#. ID 13, Page 1, Line 5, Pos (17,8)
+#. ID 19, Page 1, Line 16, Pos (14,6)
+msgid "Finished"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (11,9)
+msgid "Look down"
+msgstr ""
+
+#. ID 2, Page 1, Line 3, Pos (11,9)
+msgid "Look up"
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (11,9)
+msgid "Look left"
+msgstr ""
+
+#. ID 2, Page 1, Line 7, Pos (11,9)
+msgid "Look right"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (15,10)
+msgid "Move down, left, up, right."
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (16,10)
+msgid "Move random position."
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (3,12)
+msgid "I'm testing chara."
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (18,10)
+msgid "Make TestChara follow hero (1 step)."
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (19,10)
+msgid "Make TestChara run away hero (1 step)."
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (19,14)
+msgid ""
+"Make hero run away hero (1 step- watch out).\n"
+"(RPG_RT tries to move up?)."
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (19,13)
+msgid ""
+"Make hero follow hero (1 step- watch out).\n"
+"(RPG_RT tries to move down?)."
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (13,8)
+msgid ""
+"Step foward. (Be sure this chara has low \n"
+"priority), or else player will be event-level\n"
+"hang."
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (15,8)
+msgid "Testing chara's speeds."
+msgstr ""
+
+#. ID 11, Page 1, Line 2, Pos (15,8)
+msgid "1 speed Lower"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (15,8)
+#. ID 11, Page 1, Line 6, Pos (15,8)
+#. ID 11, Page 1, Line 20, Pos (15,8)
+#. ID 11, Page 1, Line 22, Pos (15,8)
+msgid "Next: 1 speed Lower"
+msgstr ""
+
+#. ID 11, Page 1, Line 8, Pos (15,8)
+#. ID 11, Page 1, Line 10, Pos (15,8)
+#. ID 11, Page 1, Line 12, Pos (15,8)
+#. ID 11, Page 1, Line 14, Pos (15,8)
+#. ID 11, Page 1, Line 16, Pos (15,8)
+#. ID 11, Page 1, Line 18, Pos (15,8)
+msgid "Next: 1 speed upper"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (16,8)
+msgid "Testing rotations."
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (16,8)
+msgid "Next:90°right."
+msgstr ""
+
+#. ID 12, Page 1, Line 4, Pos (16,8)
+msgid "Next:90°left."
+msgstr ""
+
+#. ID 12, Page 1, Line 6, Pos (16,8)
+msgid "Next:180° "
+msgstr ""
+
+#. ID 12, Page 1, Line 8, Pos (16,8)
+msgid "Next: Left-right 90°. (?)"
+msgstr ""
+
+#. ID 12, Page 1, Line 10, Pos (16,8)
+msgid "Next: Random rotation."
+msgstr ""
+
+#. ID 12, Page 1, Line 12, Pos (16,8)
+#. ID 28, Page 1, Line 6, Pos (14,1)
+#. ID 29, Page 1, Line 8, Pos (15,1)
+msgid "Finished."
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (17,8)
+msgid "Make TestChara Look to hero."
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (17,8)
+msgid "NEXT: Make TestChara Look away to hero."
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (18,8)
+msgid ""
+"Make hero Look to hero.\n"
+"(Watch out- RPG_RT make hero look down?)"
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (19,8)
+msgid ""
+"Make hero Look away to hero.\n"
+"(Watch out! - RPG_RT makes hero look upside?)"
+msgstr ""
+
+#. ID 16, Page 1, Line 1, Pos (11,6)
+msgid "Set a pause in movement"
+msgstr ""
+
+#. ID 16, Page 1, Line 3, Pos (11,6)
+msgid ""
+"Next: Move in circles with a pause bewteen lap.\n"
+"(3 laps)."
+msgstr ""
+
+#. ID 17, Page 1, Line 1, Pos (12,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Testing frecuency to TestChara2 (doesn't apply\n"
+"in map-event commands?)"
+msgstr ""
+
+#. ID 17, Page 1, Line 3, Pos (12,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"More frecuency\n"
+"Less frecuency"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (0,10)
+msgid "I'm testing chara number2."
+msgstr ""
+
+#. ID 19, Page 1, Line 1, Pos (14,6)
+msgid "Jumping test"
+msgstr ""
+
+#. ID 19, Page 1, Line 2, Pos (14,6)
+msgid "Jump in the same position."
+msgstr ""
+
+#. ID 19, Page 1, Line 4, Pos (14,6)
+msgid "NEXT: Jumping 2 tiles left."
+msgstr ""
+
+#. ID 19, Page 1, Line 6, Pos (14,6)
+msgid ""
+"NEXT: Jumping 2 tiles right, 2 left, and \n"
+"2 right again. (player must be reduce this\n"
+"at 2 tiles right)."
+msgstr ""
+
+#. ID 19, Page 1, Line 10, Pos (14,6)
+msgid ""
+"NEXT: Jump 2 tiles up, 3 tiles left.\n"
+"And back."
+msgstr ""
+
+#. ID 19, Page 1, Line 13, Pos (14,6)
+msgid ""
+"NEXT: Incomplete jumping.\n"
+"(without End jump command - Does not excecute)."
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (15,6)
+#. Choice (2 options)
+msgid ""
+"Enable fixed direction\n"
+"Disable fixed direction"
+msgstr ""
+
+#. ID 21, Page 1, Line 1, Pos (16,6)
+#. Choice (2 options)
+msgid ""
+"Enable ghost mode\n"
+"Disable ghost mode"
+msgstr ""
+
+#. ID 22, Page 1, Line 1, Pos (17,6)
+#. Choice (2 options)
+msgid ""
+"Disable chara animation\n"
+"Enable chara animation"
+msgstr ""
+
+#. ID 23, Page 1, Line 2, Pos (12,4)
+msgid "Switch 0006 is ON."
+msgstr ""
+
+#. ID 23, Page 1, Line 5, Pos (12,4)
+msgid "Switch 0006 is OFF."
+msgstr ""
+
+#. ID 23, Page 1, Line 8, Pos (12,4)
+#. Choice (2 options)
+msgid ""
+"Enable switch [0006]\n"
+"Disable switch [0006]"
+msgstr ""
+
+#. ID 24, Page 1, Line 1, Pos (19,6)
+#. Choice (2 options)
+msgid ""
+"More transparency\n"
+"Less transparency"
+msgstr ""
+
+#. ID 25, Page 1, Line 1, Pos (13,4)
+msgid "Change hero's chara."
+msgstr ""
+
+#. ID 26, Page 1, Line 1, Pos (14,4)
+msgid "Play sound effect."
+msgstr ""
+
+#. ID 27, Page 1, Line 1, Pos (3,10)
+msgid ""
+"Move up 2 tiles ( with ignore impossible\n"
+"movements ON). The movement will stop at half."
+msgstr ""
+
+#. ID 28, Page 1, Line 1, Pos (14,1)
+msgid ""
+"Move in circles, repeat event activated.\n"
+"Wait 5 sec. and Stop Movement will be called."
+msgstr ""
+
+#. ID 29, Page 1, Line 1, Pos (15,1)
+msgid ""
+"Move in circles 5 times.\n"
+"Move test chara to random position many times.\n"
+"Wait until finish both.\n"
+"(using excecute all movement command)."
+msgstr ""
+

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (8,10)
+msgid "Cause Death status to Alex"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (9,10)
+msgid "Cause posion status to Alex"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (10,10)
+msgid "Cause general status to Alex"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (11,10)
+msgid "Cause Battle status to Alex"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (8,8)
+msgid ""
+"Cure Death status to Alex\n"
+"(weird)"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (9,8)
+msgid "Cure posion status to Alex"
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (10,8)
+msgid "Cure general status to Alex"
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (11,8)
+msgid "Cure Battle status from Alex"
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (8,6)
+msgid "Cause posion to all group"
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (9,6)
+msgid "Cure posion to all group"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (11,6)
+msgid ""
+"Cause posion to (Variable 0003)\n"
+"Variable 0003=2, points to Brian"
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (12,6)
+msgid ""
+"Cure posion to (Variable 0003)\n"
+"Variable 0003=2, points to Brian"
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (9,4)
+msgid "Cause death to Brian."
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (10,4)
+msgid "Cure death to Brian."
+msgstr ""
+
