@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (9,12)
+msgid ""
+"If you can't see vehicles Set Vehicle Position is\n"
+"not implemented.\n"
+"Set this map as starting point for all vehicles\n"
+"in the editor instead."
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (8,9)
+msgid ""
+"Change the chara of vehicle 1 to first chara from\n"
+"Chara1.png"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (9,9)
+msgid ""
+"Change the chara of vehicle 2 to second chara from\n"
+"Chara1.png"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (10,9)
+msgid ""
+"Change the chara of vehicle 3 to third chara \n"
+"from Chara1.png"
+msgstr ""
+

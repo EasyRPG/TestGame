@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (4,7)
+msgid "Doing Full Recovery."
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (6,9)
+msgid ""
+"Attack Brian with Atk 5\n"
+"100% Def, 0% Mind\n"
+"Result in Var1"
+msgstr ""
+
+#. ID 3, Page 1, Line 5, Pos (6,9)
+#. ID 4, Page 1, Line 5, Pos (7,9)
+#. ID 5, Page 1, Line 5, Pos (8,9)
+#. ID 6, Page 1, Line 5, Pos (6,7)
+#. ID 7, Page 1, Line 6, Pos (7,7)
+msgid "Damage: \\v[1]"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (7,9)
+msgid ""
+"Attack Brian with Atk 5\n"
+"50% Def, 50% Mind\n"
+"Result in Var1"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (8,9)
+msgid ""
+"Attack Brian with Atk 5\n"
+"0% Def, 100% Mind\n"
+"Result in Var1"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (6,7)
+msgid ""
+"Attack party with Atk 5\n"
+"100% Def, 0% Mind\n"
+"Result in Var1"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (7,7)
+msgid ""
+"Attack Var4 (Deiji) with Atk 5\n"
+"100% Def, 0% Mind\n"
+"Result in Var1"
+msgstr ""
+

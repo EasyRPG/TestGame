@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "Message"
+msgstr ""
+
+#. ID 3
+msgid "Map events"
+msgstr ""
+
+#. ID 4
+msgid "Message options"
+msgstr ""
+
+#. ID 5
+msgid "Show face"
+msgstr ""
+
+#. ID 6
+msgid "Choices"
+msgstr ""
+
+#. ID 7
+msgid "Number input"
+msgstr ""
+
+#. ID 8
+msgid "Switch operation"
+msgstr ""
+
+#. ID 9
+msgid "Variable operation"
+msgstr ""
+
+#. ID 10
+msgid "Timer operations"
+msgstr ""
+
+#. ID 11
+msgid "Money operations"
+msgstr ""
+
+#. ID 12
+msgid "Items operation"
+msgstr ""
+
+#. ID 13
+msgid "Hero operations"
+msgstr ""
+
+#. ID 14
+msgid "Experience"
+msgstr ""
+
+#. ID 15
+msgid "Level"
+msgstr ""
+
+#. ID 16
+msgid "Parameters"
+msgstr ""
+
+#. ID 17
+msgid "Abilities"
+msgstr ""
+
+#. ID 18
+msgid "Equip"
+msgstr ""
+
+#. ID 19
+msgid "HP/MP Recover/Remove"
+msgstr ""
+
+#. ID 20
+msgid "Status (command only)"
+msgstr ""
+
+#. ID 21
+msgid "Cure all"
+msgstr ""
+
+#. ID 22
+msgid "Damage"
+msgstr ""
+
+#. ID 23
+msgid "Change hero name/title"
+msgstr ""
+
+#. ID 24
+msgid "Change hero chara/face"
+msgstr ""
+
+#. ID 25
+msgid "Change vehicles chara"
+msgstr ""
+
+#. ID 26
+msgid "Change system BGM"
+msgstr ""
+
+#. ID 27
+msgid "Change System sounds"
+msgstr ""
+
+#. ID 28
+msgid "Change system (graphic)"
+msgstr ""
+
+#. ID 29
+msgid "Chane default scr.trans."
+msgstr ""
+
+#. ID 30
+msgid "Transitions"
+msgstr ""
+
+#. ID 31
+msgid "Standard world test"
+msgstr ""
+
+#. ID 32
+msgid "Test AB Blocks"
+msgstr ""
+
+#. ID 33
+msgid "Test D Blocks"
+msgstr ""
+
+#. ID 34
+msgid "Item Shop"
+msgstr ""
+
+#. ID 35
+msgid "Branching"
+msgstr ""
+
+#. ID 36
+msgid "Inn"
+msgstr ""
+
+#. ID 37
+msgid "Hero name input"
+msgstr ""
+
+#. ID 38
+msgid "Memo/GoTo Place"
+msgstr ""
+
+#. ID 39
+#. ID 68
+msgid "Map2"
+msgstr ""
+
+#. ID 40
+msgid "Vehicle commands"
+msgstr ""
+
+#. ID 41
+msgid "Screen Tone"
+msgstr ""
+
+#. ID 42
+msgid "Screen Flash"
+msgstr ""
+
+#. ID 43
+msgid "Shake Screen"
+msgstr ""
+
+#. ID 44
+msgid "Shake Screen 2"
+msgstr ""
+
+#. ID 45
+msgid "Pan Screen"
+msgstr ""
+
+#. ID 46
+msgid "Big map"
+msgstr ""
+
+#. ID 47
+msgid "Weather effects"
+msgstr ""
+
+#. ID 48
+msgid "Image operations"
+msgstr ""
+
+#. ID 49
+msgid "Battle Animations"
+msgstr ""
+
+#. ID 50
+msgid "Hero transparency"
+msgstr ""
+
+#. ID 51
+msgid "Hero flash"
+msgstr ""
+
+#. ID 52
+msgid "Event Movement"
+msgstr ""
+
+#. ID 53
+msgid "Wait"
+msgstr ""
+
+#. ID 54
+msgid "Music playing"
+msgstr ""
+
+#. ID 55
+msgid "Menu testing"
+msgstr ""
+
+#. ID 56
+msgid "Teleport/Escape place"
+msgstr ""
+
+#. ID 57
+msgid "Change Event Position"
+msgstr ""
+
+#. ID 58
+msgid "Swap Event"
+msgstr ""
+
+#. ID 59
+msgid "Get Terrain ID"
+msgstr ""
+
+#. ID 60
+msgid "Get Event ID"
+msgstr ""
+
+#. ID 61
+msgid "Key input"
+msgstr ""
+
+#. ID 62
+msgid "Loop Label"
+msgstr ""
+
+#. ID 63
+msgid "Event delete"
+msgstr ""
+
+#. ID 64
+msgid "Panorama"
+msgstr ""
+
+#. ID 65
+msgid "Tile substiution"
+msgstr ""
+
+#. ID 66
+msgid "Call Event"
+msgstr ""
+
+#. ID 67
+msgid "Panorama Loop"
+msgstr ""
+

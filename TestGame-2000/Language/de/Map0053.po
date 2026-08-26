@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (4,7)
+msgid ""
+"Play MIDI Music. Default parameters.\n"
+"(Wait ~2 min to loop)."
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (5,7)
+msgid ""
+"Play MIDI Music (With midi controller event 111\n"
+"enabled for loop). Default parameters.\n"
+"(Wait ~2 min to loop)"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (7,7)
+msgid ""
+"Play MIDI fanfare. Default parameters.\n"
+"(Doesn't have Midi event controller, it will\n"
+"repeat forever)."
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (8,7)
+msgid ""
+"Play MIDI fanfare. Default parameters.\n"
+"(With midi controller event 111\n"
+"enabled for stopping)."
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (2,7)
+#. ID 6, Page 1, Line 1, Pos (2,6)
+msgid "Fade out music (3.0 sec, no wait)."
+msgstr ""
+
+#. ID 6, Page 1, Line 2, Pos (2,6)
+#. Choice (4 options)
+msgid ""
+"Play melody 1\n"
+"Play melody 2\n"
+"Memorize melody\n"
+"Play memorized melody"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (2,4)
+msgid "Test PCM Wave."
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (4,4)
+msgid "Test ACM Wave."
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (5,4)
+msgid "Test MP3 Wave."
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (6,4)
+msgid ""
+"Can't test OGG Wave. (not supported by original\n"
+"RPG Maker)."
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (2,8)
+msgid "Fade in melody 1(3.0 sec, no wait)."
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (2,11)
+msgid "Stop Melody."
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (4,11)
+msgid "Testing balance (MIDI)"
+msgstr ""
+
+#. ID 13, Page 1, Line 25, Pos (4,11)
+#. ID 14, Page 1, Line 6, Pos (2,9)
+#. ID 15, Page 1, Line 6, Pos (1,9)
+#. ID 16, Page 1, Line 25, Pos (5,11)
+#. ID 17, Page 1, Line 25, Pos (4,13)
+#. ID 18, Page 1, Line 25, Pos (5,13)
+msgid "Finished"
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (2,9)
+msgid "Play melody 1 (default parameter)."
+msgstr ""
+
+#. ID 14, Page 1, Line 3, Pos (2,9)
+msgid ""
+"NEXT: Play same melody, with some parameters\n"
+"changed ( song don't restart)."
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (1,9)
+msgid "Play melody 2 (default parameter)."
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (1,9)
+msgid ""
+"NEXT: Play same melody, with some parameters\n"
+"changed."
+msgstr ""
+
+#. ID 16, Page 1, Line 1, Pos (5,11)
+msgid "Testing speed (MIDI)"
+msgstr ""
+
+#. ID 17, Page 1, Line 1, Pos (4,13)
+msgid "Testing balance (stream)"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (5,13)
+msgid "Testing speed (stream)"
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (3,4)
+msgid "Test ADPCM Wave."
+msgstr ""
+

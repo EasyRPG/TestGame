@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (6,5)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(Hero facing right (to Vehicle) )."
+msgstr ""
+
+#. ID 3, Page 1, Line 2, Pos (10,2)
+#. ID 14, Page 1, Line 4, Pos (13,13)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(Hero facing down (to Vehicle) )."
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (10,9)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(Vehicle facing down (to terrain) )."
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (14,1)
+msgid ""
+"Talk to left chara to set boats in this map or\n"
+"set vehicle start position  manually in this map \n"
+"inside water (in the coast) before test this\n"
+" command."
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (9,2)
+#. ID 7, Page 1, Line 1, Pos (6,4)
+#. ID 17, Page 1, Line 1, Pos (1,0)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(without facing to vehicle )."
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (11,9)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(Without facing on terrain )."
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (15,5)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(Vehicle facing right (to terrain) )."
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (15,6)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(Whithout facing (to terrain) )."
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (13,1)
+msgid ""
+"Reset vehicle position. \n"
+"( Requires \"Set vehicle position\")"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (1,8)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(without movement vehicle ).\n"
+"(NOTE: Will not enter to vehicle in \n"
+"this way)"
+msgstr ""
+
+#. ID 13, Page 1, Line 2, Pos (3,8)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(moving hero to vehicle )."
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (13,13)
+#. Choice (2 options)
+msgid ""
+"Face Down\n"
+"Face Up"
+msgstr ""
+
+#. ID 14, Page 1, Line 9, Pos (13,13)
+msgid ""
+"Call \"Enter or Exit Vehicle\"\n"
+"(Hero facing up (to Vehicle) )."
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (4,1)
+msgid ""
+"Set vehicle position to out-of-range areas of \n"
+"this map.\n"
+"Boat (1,-1), Ship (21,21), Airship (0,-1)."
+msgstr ""
+
+#. ID 15, Page 1, Line 14, Pos (4,1)
+msgid ""
+"(If you go 1,0, hero facing up, you can\n"
+"enter to boat, and it teleports at 1,0.\n"
+"For testing pruposes, do you want to set\n"
+"\"Enter/exit vehicle\" command in 1,0?)"
+msgstr ""
+
+#. ID 15, Page 1, Line 18, Pos (4,1)
+#. Choice (2 options)
+#. ID 18, Page 1, Line 14, Pos (5,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+
+#. ID 16, Page 1, Line 1, Pos (3,1)
+msgid ""
+"Set all vehicle position to single area for\n"
+"this map.\n"
+"(0,0)"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (5,1)
+msgid ""
+"Set vehicle position to Standard world test\n"
+"(ID 0030).\n"
+"Boat (33,72), Ship (33,74), Airship (37,74)."
+msgstr ""
+
+#. ID 18, Page 1, Line 13, Pos (5,1)
+#. Contains choice at line 2 (2 options)
+msgid "Do you want go to main Test Suite map?"
+msgstr ""
+

@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (8,8)
+msgid "Remove 50 HP from all group"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (8,10)
+msgid "Cure whole party."
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (9,10)
+msgid "Cure all Deiji only"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (10,10)
+msgid ""
+"Cure all (Variable 0008)\n"
+"(Variable 0008=3, points to Carol)"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (9,8)
+msgid "Remove 50 MP from all group"
+msgstr ""
+

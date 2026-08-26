@@ -1,0 +1,1257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (13,9)
+msgid ""
+"Show test image, magnitude 0% to 2000% \n"
+"(RPG Maker max), step 10%.(200 times).\n"
+"(waving)"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (13,9)
+#. ID 1, Page 1, Line 10, Pos (13,9)
+#. ID 1, Page 1, Line 13, Pos (13,9)
+#. ID 1, Page 1, Line 16, Pos (13,9)
+#. ID 1, Page 1, Line 19, Pos (13,9)
+#. ID 1, Page 1, Line 22, Pos (13,9)
+#. ID 1, Page 1, Line 25, Pos (13,9)
+#. ID 1, Page 1, Line 28, Pos (13,9)
+#. ID 1, Page 1, Line 31, Pos (13,9)
+#. ID 1, Page 1, Line 34, Pos (13,9)
+#. ID 1, Page 1, Line 37, Pos (13,9)
+#. ID 1, Page 1, Line 40, Pos (13,9)
+#. ID 1, Page 1, Line 43, Pos (13,9)
+#. ID 1, Page 1, Line 46, Pos (13,9)
+#. ID 1, Page 1, Line 49, Pos (13,9)
+#. ID 1, Page 1, Line 52, Pos (13,9)
+#. ID 1, Page 1, Line 55, Pos (13,9)
+#. ID 1, Page 1, Line 58, Pos (13,9)
+#. ID 1, Page 1, Line 61, Pos (13,9)
+#. ID 1, Page 1, Line 64, Pos (13,9)
+#. ID 1, Page 1, Line 67, Pos (13,9)
+#. ID 1, Page 1, Line 70, Pos (13,9)
+#. ID 1, Page 1, Line 73, Pos (13,9)
+#. ID 1, Page 1, Line 76, Pos (13,9)
+#. ID 1, Page 1, Line 79, Pos (13,9)
+#. ID 1, Page 1, Line 82, Pos (13,9)
+#. ID 1, Page 1, Line 85, Pos (13,9)
+#. ID 1, Page 1, Line 88, Pos (13,9)
+#. ID 1, Page 1, Line 91, Pos (13,9)
+#. ID 1, Page 1, Line 94, Pos (13,9)
+#. ID 1, Page 1, Line 97, Pos (13,9)
+#. ID 1, Page 1, Line 100, Pos (13,9)
+#. ID 1, Page 1, Line 103, Pos (13,9)
+#. ID 1, Page 1, Line 106, Pos (13,9)
+#. ID 1, Page 1, Line 109, Pos (13,9)
+#. ID 1, Page 1, Line 112, Pos (13,9)
+#. ID 1, Page 1, Line 115, Pos (13,9)
+#. ID 1, Page 1, Line 118, Pos (13,9)
+#. ID 1, Page 1, Line 121, Pos (13,9)
+#. ID 1, Page 1, Line 124, Pos (13,9)
+#. ID 1, Page 1, Line 127, Pos (13,9)
+#. ID 1, Page 1, Line 130, Pos (13,9)
+#. ID 1, Page 1, Line 133, Pos (13,9)
+#. ID 1, Page 1, Line 136, Pos (13,9)
+#. ID 1, Page 1, Line 139, Pos (13,9)
+#. ID 1, Page 1, Line 142, Pos (13,9)
+#. ID 1, Page 1, Line 145, Pos (13,9)
+#. ID 1, Page 1, Line 148, Pos (13,9)
+#. ID 1, Page 1, Line 151, Pos (13,9)
+#. ID 1, Page 1, Line 154, Pos (13,9)
+#. ID 1, Page 1, Line 157, Pos (13,9)
+#. ID 1, Page 1, Line 160, Pos (13,9)
+#. ID 1, Page 1, Line 163, Pos (13,9)
+#. ID 1, Page 1, Line 166, Pos (13,9)
+#. ID 1, Page 1, Line 169, Pos (13,9)
+#. ID 1, Page 1, Line 172, Pos (13,9)
+#. ID 1, Page 1, Line 175, Pos (13,9)
+#. ID 1, Page 1, Line 178, Pos (13,9)
+#. ID 1, Page 1, Line 181, Pos (13,9)
+#. ID 1, Page 1, Line 184, Pos (13,9)
+#. ID 1, Page 1, Line 187, Pos (13,9)
+#. ID 1, Page 1, Line 190, Pos (13,9)
+#. ID 1, Page 1, Line 193, Pos (13,9)
+#. ID 1, Page 1, Line 196, Pos (13,9)
+#. ID 1, Page 1, Line 199, Pos (13,9)
+#. ID 1, Page 1, Line 202, Pos (13,9)
+#. ID 1, Page 1, Line 205, Pos (13,9)
+#. ID 1, Page 1, Line 208, Pos (13,9)
+#. ID 1, Page 1, Line 211, Pos (13,9)
+#. ID 1, Page 1, Line 214, Pos (13,9)
+#. ID 1, Page 1, Line 217, Pos (13,9)
+#. ID 1, Page 1, Line 220, Pos (13,9)
+#. ID 1, Page 1, Line 223, Pos (13,9)
+#. ID 1, Page 1, Line 226, Pos (13,9)
+#. ID 1, Page 1, Line 229, Pos (13,9)
+#. ID 1, Page 1, Line 232, Pos (13,9)
+#. ID 1, Page 1, Line 235, Pos (13,9)
+#. ID 1, Page 1, Line 238, Pos (13,9)
+#. ID 1, Page 1, Line 241, Pos (13,9)
+#. ID 1, Page 1, Line 244, Pos (13,9)
+#. ID 1, Page 1, Line 247, Pos (13,9)
+#. ID 1, Page 1, Line 250, Pos (13,9)
+#. ID 1, Page 1, Line 253, Pos (13,9)
+#. ID 1, Page 1, Line 256, Pos (13,9)
+#. ID 1, Page 1, Line 259, Pos (13,9)
+#. ID 1, Page 1, Line 262, Pos (13,9)
+#. ID 1, Page 1, Line 265, Pos (13,9)
+#. ID 1, Page 1, Line 268, Pos (13,9)
+#. ID 1, Page 1, Line 271, Pos (13,9)
+#. ID 1, Page 1, Line 274, Pos (13,9)
+#. ID 1, Page 1, Line 277, Pos (13,9)
+#. ID 1, Page 1, Line 280, Pos (13,9)
+#. ID 1, Page 1, Line 283, Pos (13,9)
+#. ID 1, Page 1, Line 286, Pos (13,9)
+#. ID 1, Page 1, Line 289, Pos (13,9)
+#. ID 1, Page 1, Line 292, Pos (13,9)
+#. ID 1, Page 1, Line 295, Pos (13,9)
+#. ID 1, Page 1, Line 298, Pos (13,9)
+#. ID 1, Page 1, Line 301, Pos (13,9)
+#. ID 1, Page 1, Line 304, Pos (13,9)
+#. ID 1, Page 1, Line 307, Pos (13,9)
+#. ID 1, Page 1, Line 310, Pos (13,9)
+#. ID 1, Page 1, Line 313, Pos (13,9)
+#. ID 1, Page 1, Line 316, Pos (13,9)
+#. ID 1, Page 1, Line 319, Pos (13,9)
+#. ID 1, Page 1, Line 322, Pos (13,9)
+#. ID 1, Page 1, Line 325, Pos (13,9)
+#. ID 1, Page 1, Line 328, Pos (13,9)
+#. ID 1, Page 1, Line 331, Pos (13,9)
+#. ID 1, Page 1, Line 334, Pos (13,9)
+#. ID 1, Page 1, Line 337, Pos (13,9)
+#. ID 1, Page 1, Line 340, Pos (13,9)
+#. ID 1, Page 1, Line 343, Pos (13,9)
+#. ID 1, Page 1, Line 346, Pos (13,9)
+#. ID 1, Page 1, Line 349, Pos (13,9)
+#. ID 1, Page 1, Line 352, Pos (13,9)
+#. ID 1, Page 1, Line 355, Pos (13,9)
+#. ID 1, Page 1, Line 358, Pos (13,9)
+#. ID 1, Page 1, Line 361, Pos (13,9)
+#. ID 1, Page 1, Line 364, Pos (13,9)
+#. ID 1, Page 1, Line 367, Pos (13,9)
+#. ID 1, Page 1, Line 370, Pos (13,9)
+#. ID 1, Page 1, Line 373, Pos (13,9)
+#. ID 1, Page 1, Line 376, Pos (13,9)
+#. ID 1, Page 1, Line 379, Pos (13,9)
+#. ID 1, Page 1, Line 382, Pos (13,9)
+#. ID 1, Page 1, Line 385, Pos (13,9)
+#. ID 1, Page 1, Line 388, Pos (13,9)
+#. ID 1, Page 1, Line 391, Pos (13,9)
+#. ID 1, Page 1, Line 394, Pos (13,9)
+#. ID 1, Page 1, Line 397, Pos (13,9)
+#. ID 1, Page 1, Line 400, Pos (13,9)
+#. ID 1, Page 1, Line 403, Pos (13,9)
+#. ID 1, Page 1, Line 406, Pos (13,9)
+#. ID 1, Page 1, Line 409, Pos (13,9)
+#. ID 1, Page 1, Line 412, Pos (13,9)
+#. ID 1, Page 1, Line 415, Pos (13,9)
+#. ID 1, Page 1, Line 418, Pos (13,9)
+#. ID 1, Page 1, Line 421, Pos (13,9)
+#. ID 1, Page 1, Line 424, Pos (13,9)
+#. ID 1, Page 1, Line 427, Pos (13,9)
+#. ID 1, Page 1, Line 430, Pos (13,9)
+#. ID 1, Page 1, Line 433, Pos (13,9)
+#. ID 1, Page 1, Line 436, Pos (13,9)
+#. ID 1, Page 1, Line 439, Pos (13,9)
+#. ID 1, Page 1, Line 442, Pos (13,9)
+#. ID 1, Page 1, Line 445, Pos (13,9)
+#. ID 1, Page 1, Line 448, Pos (13,9)
+#. ID 1, Page 1, Line 451, Pos (13,9)
+#. ID 1, Page 1, Line 454, Pos (13,9)
+#. ID 1, Page 1, Line 457, Pos (13,9)
+#. ID 1, Page 1, Line 460, Pos (13,9)
+#. ID 1, Page 1, Line 463, Pos (13,9)
+#. ID 1, Page 1, Line 466, Pos (13,9)
+#. ID 1, Page 1, Line 469, Pos (13,9)
+#. ID 1, Page 1, Line 472, Pos (13,9)
+#. ID 1, Page 1, Line 475, Pos (13,9)
+#. ID 1, Page 1, Line 478, Pos (13,9)
+#. ID 1, Page 1, Line 481, Pos (13,9)
+#. ID 1, Page 1, Line 484, Pos (13,9)
+#. ID 1, Page 1, Line 487, Pos (13,9)
+#. ID 1, Page 1, Line 490, Pos (13,9)
+#. ID 1, Page 1, Line 493, Pos (13,9)
+#. ID 1, Page 1, Line 496, Pos (13,9)
+#. ID 1, Page 1, Line 499, Pos (13,9)
+#. ID 1, Page 1, Line 502, Pos (13,9)
+#. ID 1, Page 1, Line 505, Pos (13,9)
+#. ID 1, Page 1, Line 508, Pos (13,9)
+#. ID 1, Page 1, Line 511, Pos (13,9)
+#. ID 1, Page 1, Line 514, Pos (13,9)
+#. ID 1, Page 1, Line 517, Pos (13,9)
+#. ID 1, Page 1, Line 520, Pos (13,9)
+#. ID 1, Page 1, Line 523, Pos (13,9)
+#. ID 1, Page 1, Line 526, Pos (13,9)
+#. ID 1, Page 1, Line 529, Pos (13,9)
+#. ID 1, Page 1, Line 532, Pos (13,9)
+#. ID 1, Page 1, Line 535, Pos (13,9)
+#. ID 1, Page 1, Line 538, Pos (13,9)
+#. ID 1, Page 1, Line 541, Pos (13,9)
+#. ID 1, Page 1, Line 544, Pos (13,9)
+#. ID 1, Page 1, Line 547, Pos (13,9)
+#. ID 1, Page 1, Line 550, Pos (13,9)
+#. ID 1, Page 1, Line 553, Pos (13,9)
+#. ID 1, Page 1, Line 556, Pos (13,9)
+#. ID 1, Page 1, Line 559, Pos (13,9)
+#. ID 1, Page 1, Line 562, Pos (13,9)
+#. ID 1, Page 1, Line 565, Pos (13,9)
+#. ID 1, Page 1, Line 568, Pos (13,9)
+#. ID 1, Page 1, Line 571, Pos (13,9)
+#. ID 1, Page 1, Line 574, Pos (13,9)
+#. ID 1, Page 1, Line 577, Pos (13,9)
+#. ID 1, Page 1, Line 580, Pos (13,9)
+#. ID 1, Page 1, Line 583, Pos (13,9)
+#. ID 1, Page 1, Line 586, Pos (13,9)
+#. ID 1, Page 1, Line 589, Pos (13,9)
+#. ID 1, Page 1, Line 592, Pos (13,9)
+#. ID 1, Page 1, Line 595, Pos (13,9)
+#. ID 1, Page 1, Line 598, Pos (13,9)
+#. ID 1, Page 1, Line 601, Pos (13,9)
+#. ID 1, Page 1, Line 604, Pos (13,9)
+#. ID 1, Page 1, Line 607, Pos (13,9)
+#. ID 7, Page 1, Line 6, Pos (11,9)
+#. ID 7, Page 1, Line 9, Pos (11,9)
+#. ID 7, Page 1, Line 12, Pos (11,9)
+#. ID 7, Page 1, Line 15, Pos (11,9)
+#. ID 7, Page 1, Line 18, Pos (11,9)
+#. ID 7, Page 1, Line 21, Pos (11,9)
+#. ID 7, Page 1, Line 24, Pos (11,9)
+#. ID 7, Page 1, Line 27, Pos (11,9)
+#. ID 7, Page 1, Line 30, Pos (11,9)
+#. ID 7, Page 1, Line 33, Pos (11,9)
+#. ID 7, Page 1, Line 36, Pos (11,9)
+#. ID 7, Page 1, Line 39, Pos (11,9)
+#. ID 7, Page 1, Line 42, Pos (11,9)
+#. ID 7, Page 1, Line 45, Pos (11,9)
+#. ID 7, Page 1, Line 48, Pos (11,9)
+#. ID 7, Page 1, Line 51, Pos (11,9)
+#. ID 7, Page 1, Line 54, Pos (11,9)
+#. ID 7, Page 1, Line 57, Pos (11,9)
+#. ID 7, Page 1, Line 60, Pos (11,9)
+#. ID 7, Page 1, Line 63, Pos (11,9)
+#. ID 7, Page 1, Line 66, Pos (11,9)
+#. ID 7, Page 1, Line 69, Pos (11,9)
+#. ID 7, Page 1, Line 72, Pos (11,9)
+#. ID 7, Page 1, Line 75, Pos (11,9)
+#. ID 7, Page 1, Line 78, Pos (11,9)
+#. ID 7, Page 1, Line 81, Pos (11,9)
+#. ID 7, Page 1, Line 84, Pos (11,9)
+#. ID 7, Page 1, Line 87, Pos (11,9)
+#. ID 7, Page 1, Line 90, Pos (11,9)
+#. ID 7, Page 1, Line 93, Pos (11,9)
+#. ID 7, Page 1, Line 96, Pos (11,9)
+#. ID 7, Page 1, Line 99, Pos (11,9)
+#. ID 7, Page 1, Line 102, Pos (11,9)
+#. ID 7, Page 1, Line 105, Pos (11,9)
+#. ID 7, Page 1, Line 108, Pos (11,9)
+#. ID 7, Page 1, Line 111, Pos (11,9)
+#. ID 7, Page 1, Line 114, Pos (11,9)
+#. ID 7, Page 1, Line 117, Pos (11,9)
+#. ID 7, Page 1, Line 120, Pos (11,9)
+#. ID 7, Page 1, Line 123, Pos (11,9)
+#. ID 7, Page 1, Line 126, Pos (11,9)
+#. ID 7, Page 1, Line 129, Pos (11,9)
+#. ID 7, Page 1, Line 132, Pos (11,9)
+#. ID 7, Page 1, Line 135, Pos (11,9)
+#. ID 7, Page 1, Line 138, Pos (11,9)
+#. ID 7, Page 1, Line 141, Pos (11,9)
+#. ID 7, Page 1, Line 144, Pos (11,9)
+#. ID 7, Page 1, Line 147, Pos (11,9)
+#. ID 7, Page 1, Line 150, Pos (11,9)
+#. ID 7, Page 1, Line 153, Pos (11,9)
+#. ID 7, Page 1, Line 156, Pos (11,9)
+#. ID 7, Page 1, Line 159, Pos (11,9)
+#. ID 7, Page 1, Line 162, Pos (11,9)
+#. ID 7, Page 1, Line 165, Pos (11,9)
+#. ID 7, Page 1, Line 168, Pos (11,9)
+#. ID 7, Page 1, Line 171, Pos (11,9)
+#. ID 7, Page 1, Line 174, Pos (11,9)
+#. ID 7, Page 1, Line 177, Pos (11,9)
+#. ID 7, Page 1, Line 180, Pos (11,9)
+#. ID 7, Page 1, Line 183, Pos (11,9)
+#. ID 7, Page 1, Line 186, Pos (11,9)
+#. ID 7, Page 1, Line 189, Pos (11,9)
+#. ID 7, Page 1, Line 192, Pos (11,9)
+#. ID 7, Page 1, Line 195, Pos (11,9)
+#. ID 7, Page 1, Line 198, Pos (11,9)
+#. ID 7, Page 1, Line 201, Pos (11,9)
+#. ID 7, Page 1, Line 204, Pos (11,9)
+#. ID 7, Page 1, Line 207, Pos (11,9)
+#. ID 7, Page 1, Line 210, Pos (11,9)
+#. ID 7, Page 1, Line 213, Pos (11,9)
+#. ID 7, Page 1, Line 216, Pos (11,9)
+#. ID 7, Page 1, Line 219, Pos (11,9)
+#. ID 7, Page 1, Line 222, Pos (11,9)
+#. ID 7, Page 1, Line 225, Pos (11,9)
+#. ID 7, Page 1, Line 228, Pos (11,9)
+#. ID 7, Page 1, Line 231, Pos (11,9)
+#. ID 7, Page 1, Line 234, Pos (11,9)
+#. ID 7, Page 1, Line 237, Pos (11,9)
+#. ID 7, Page 1, Line 240, Pos (11,9)
+#. ID 7, Page 1, Line 243, Pos (11,9)
+#. ID 7, Page 1, Line 246, Pos (11,9)
+#. ID 7, Page 1, Line 249, Pos (11,9)
+#. ID 7, Page 1, Line 252, Pos (11,9)
+#. ID 7, Page 1, Line 255, Pos (11,9)
+#. ID 7, Page 1, Line 258, Pos (11,9)
+#. ID 7, Page 1, Line 261, Pos (11,9)
+#. ID 7, Page 1, Line 264, Pos (11,9)
+#. ID 7, Page 1, Line 267, Pos (11,9)
+#. ID 7, Page 1, Line 270, Pos (11,9)
+#. ID 7, Page 1, Line 273, Pos (11,9)
+#. ID 7, Page 1, Line 276, Pos (11,9)
+#. ID 7, Page 1, Line 279, Pos (11,9)
+#. ID 7, Page 1, Line 282, Pos (11,9)
+#. ID 7, Page 1, Line 285, Pos (11,9)
+#. ID 7, Page 1, Line 288, Pos (11,9)
+#. ID 7, Page 1, Line 291, Pos (11,9)
+#. ID 7, Page 1, Line 294, Pos (11,9)
+#. ID 7, Page 1, Line 297, Pos (11,9)
+#. ID 7, Page 1, Line 300, Pos (11,9)
+#. ID 7, Page 1, Line 303, Pos (11,9)
+#. ID 7, Page 1, Line 306, Pos (11,9)
+#. ID 7, Page 1, Line 309, Pos (11,9)
+#. ID 7, Page 1, Line 312, Pos (11,9)
+#. ID 7, Page 1, Line 315, Pos (11,9)
+#. ID 7, Page 1, Line 318, Pos (11,9)
+#. ID 7, Page 1, Line 321, Pos (11,9)
+#. ID 7, Page 1, Line 324, Pos (11,9)
+#. ID 7, Page 1, Line 327, Pos (11,9)
+#. ID 7, Page 1, Line 330, Pos (11,9)
+#. ID 7, Page 1, Line 333, Pos (11,9)
+#. ID 7, Page 1, Line 336, Pos (11,9)
+#. ID 7, Page 1, Line 339, Pos (11,9)
+#. ID 7, Page 1, Line 342, Pos (11,9)
+#. ID 7, Page 1, Line 345, Pos (11,9)
+#. ID 7, Page 1, Line 348, Pos (11,9)
+#. ID 7, Page 1, Line 351, Pos (11,9)
+#. ID 7, Page 1, Line 354, Pos (11,9)
+#. ID 7, Page 1, Line 357, Pos (11,9)
+#. ID 7, Page 1, Line 360, Pos (11,9)
+#. ID 7, Page 1, Line 363, Pos (11,9)
+#. ID 7, Page 1, Line 366, Pos (11,9)
+#. ID 7, Page 1, Line 369, Pos (11,9)
+#. ID 7, Page 1, Line 372, Pos (11,9)
+#. ID 7, Page 1, Line 375, Pos (11,9)
+#. ID 7, Page 1, Line 378, Pos (11,9)
+#. ID 7, Page 1, Line 381, Pos (11,9)
+#. ID 7, Page 1, Line 384, Pos (11,9)
+#. ID 7, Page 1, Line 387, Pos (11,9)
+#. ID 7, Page 1, Line 390, Pos (11,9)
+#. ID 7, Page 1, Line 393, Pos (11,9)
+#. ID 7, Page 1, Line 396, Pos (11,9)
+#. ID 7, Page 1, Line 399, Pos (11,9)
+#. ID 7, Page 1, Line 402, Pos (11,9)
+#. ID 7, Page 1, Line 405, Pos (11,9)
+#. ID 7, Page 1, Line 408, Pos (11,9)
+#. ID 7, Page 1, Line 411, Pos (11,9)
+#. ID 7, Page 1, Line 414, Pos (11,9)
+#. ID 7, Page 1, Line 417, Pos (11,9)
+#. ID 7, Page 1, Line 420, Pos (11,9)
+#. ID 7, Page 1, Line 423, Pos (11,9)
+#. ID 7, Page 1, Line 426, Pos (11,9)
+#. ID 7, Page 1, Line 429, Pos (11,9)
+#. ID 7, Page 1, Line 432, Pos (11,9)
+#. ID 7, Page 1, Line 435, Pos (11,9)
+#. ID 7, Page 1, Line 438, Pos (11,9)
+#. ID 7, Page 1, Line 441, Pos (11,9)
+#. ID 7, Page 1, Line 444, Pos (11,9)
+#. ID 7, Page 1, Line 447, Pos (11,9)
+#. ID 7, Page 1, Line 450, Pos (11,9)
+#. ID 7, Page 1, Line 453, Pos (11,9)
+#. ID 7, Page 1, Line 456, Pos (11,9)
+#. ID 7, Page 1, Line 459, Pos (11,9)
+#. ID 7, Page 1, Line 462, Pos (11,9)
+#. ID 7, Page 1, Line 465, Pos (11,9)
+#. ID 7, Page 1, Line 468, Pos (11,9)
+#. ID 7, Page 1, Line 471, Pos (11,9)
+#. ID 7, Page 1, Line 474, Pos (11,9)
+#. ID 7, Page 1, Line 477, Pos (11,9)
+#. ID 7, Page 1, Line 480, Pos (11,9)
+#. ID 7, Page 1, Line 483, Pos (11,9)
+#. ID 7, Page 1, Line 486, Pos (11,9)
+#. ID 7, Page 1, Line 489, Pos (11,9)
+#. ID 7, Page 1, Line 492, Pos (11,9)
+#. ID 7, Page 1, Line 495, Pos (11,9)
+#. ID 7, Page 1, Line 498, Pos (11,9)
+#. ID 7, Page 1, Line 501, Pos (11,9)
+#. ID 7, Page 1, Line 504, Pos (11,9)
+#. ID 7, Page 1, Line 507, Pos (11,9)
+#. ID 7, Page 1, Line 510, Pos (11,9)
+#. ID 7, Page 1, Line 513, Pos (11,9)
+#. ID 7, Page 1, Line 516, Pos (11,9)
+#. ID 7, Page 1, Line 519, Pos (11,9)
+#. ID 7, Page 1, Line 522, Pos (11,9)
+#. ID 7, Page 1, Line 525, Pos (11,9)
+#. ID 7, Page 1, Line 528, Pos (11,9)
+#. ID 7, Page 1, Line 531, Pos (11,9)
+#. ID 7, Page 1, Line 534, Pos (11,9)
+#. ID 7, Page 1, Line 537, Pos (11,9)
+#. ID 7, Page 1, Line 540, Pos (11,9)
+#. ID 7, Page 1, Line 543, Pos (11,9)
+#. ID 7, Page 1, Line 546, Pos (11,9)
+#. ID 7, Page 1, Line 549, Pos (11,9)
+#. ID 7, Page 1, Line 552, Pos (11,9)
+#. ID 7, Page 1, Line 555, Pos (11,9)
+#. ID 7, Page 1, Line 558, Pos (11,9)
+#. ID 7, Page 1, Line 561, Pos (11,9)
+#. ID 7, Page 1, Line 564, Pos (11,9)
+#. ID 7, Page 1, Line 567, Pos (11,9)
+#. ID 7, Page 1, Line 570, Pos (11,9)
+#. ID 7, Page 1, Line 573, Pos (11,9)
+#. ID 7, Page 1, Line 576, Pos (11,9)
+#. ID 7, Page 1, Line 579, Pos (11,9)
+#. ID 7, Page 1, Line 582, Pos (11,9)
+#. ID 7, Page 1, Line 585, Pos (11,9)
+#. ID 7, Page 1, Line 588, Pos (11,9)
+#. ID 7, Page 1, Line 591, Pos (11,9)
+#. ID 7, Page 1, Line 594, Pos (11,9)
+#. ID 7, Page 1, Line 597, Pos (11,9)
+#. ID 7, Page 1, Line 600, Pos (11,9)
+#. ID 7, Page 1, Line 603, Pos (11,9)
+#. ID 7, Page 1, Line 606, Pos (11,9)
+#. ID 8, Page 1, Line 7, Pos (12,9)
+#. ID 8, Page 1, Line 10, Pos (12,9)
+#. ID 8, Page 1, Line 13, Pos (12,9)
+#. ID 8, Page 1, Line 16, Pos (12,9)
+#. ID 8, Page 1, Line 19, Pos (12,9)
+#. ID 8, Page 1, Line 22, Pos (12,9)
+#. ID 8, Page 1, Line 25, Pos (12,9)
+#. ID 8, Page 1, Line 28, Pos (12,9)
+#. ID 8, Page 1, Line 31, Pos (12,9)
+#. ID 8, Page 1, Line 34, Pos (12,9)
+#. ID 8, Page 1, Line 37, Pos (12,9)
+#. ID 8, Page 1, Line 40, Pos (12,9)
+#. ID 8, Page 1, Line 43, Pos (12,9)
+#. ID 8, Page 1, Line 46, Pos (12,9)
+#. ID 8, Page 1, Line 49, Pos (12,9)
+#. ID 8, Page 1, Line 52, Pos (12,9)
+#. ID 8, Page 1, Line 55, Pos (12,9)
+#. ID 8, Page 1, Line 58, Pos (12,9)
+#. ID 8, Page 1, Line 61, Pos (12,9)
+#. ID 8, Page 1, Line 64, Pos (12,9)
+#. ID 8, Page 1, Line 67, Pos (12,9)
+#. ID 8, Page 1, Line 70, Pos (12,9)
+#. ID 8, Page 1, Line 73, Pos (12,9)
+#. ID 8, Page 1, Line 76, Pos (12,9)
+#. ID 8, Page 1, Line 79, Pos (12,9)
+#. ID 8, Page 1, Line 82, Pos (12,9)
+#. ID 8, Page 1, Line 85, Pos (12,9)
+#. ID 8, Page 1, Line 88, Pos (12,9)
+#. ID 8, Page 1, Line 91, Pos (12,9)
+#. ID 8, Page 1, Line 94, Pos (12,9)
+#. ID 8, Page 1, Line 97, Pos (12,9)
+#. ID 8, Page 1, Line 100, Pos (12,9)
+#. ID 8, Page 1, Line 103, Pos (12,9)
+#. ID 8, Page 1, Line 106, Pos (12,9)
+#. ID 8, Page 1, Line 109, Pos (12,9)
+#. ID 8, Page 1, Line 112, Pos (12,9)
+#. ID 8, Page 1, Line 115, Pos (12,9)
+#. ID 8, Page 1, Line 118, Pos (12,9)
+#. ID 8, Page 1, Line 121, Pos (12,9)
+#. ID 8, Page 1, Line 124, Pos (12,9)
+#. ID 8, Page 1, Line 127, Pos (12,9)
+#. ID 8, Page 1, Line 130, Pos (12,9)
+#. ID 8, Page 1, Line 133, Pos (12,9)
+#. ID 8, Page 1, Line 136, Pos (12,9)
+#. ID 8, Page 1, Line 139, Pos (12,9)
+#. ID 8, Page 1, Line 142, Pos (12,9)
+#. ID 8, Page 1, Line 145, Pos (12,9)
+#. ID 8, Page 1, Line 148, Pos (12,9)
+#. ID 8, Page 1, Line 151, Pos (12,9)
+#. ID 8, Page 1, Line 154, Pos (12,9)
+#. ID 8, Page 1, Line 157, Pos (12,9)
+#. ID 8, Page 1, Line 160, Pos (12,9)
+#. ID 8, Page 1, Line 163, Pos (12,9)
+#. ID 8, Page 1, Line 166, Pos (12,9)
+#. ID 8, Page 1, Line 169, Pos (12,9)
+#. ID 8, Page 1, Line 172, Pos (12,9)
+#. ID 8, Page 1, Line 175, Pos (12,9)
+#. ID 8, Page 1, Line 178, Pos (12,9)
+#. ID 8, Page 1, Line 181, Pos (12,9)
+#. ID 8, Page 1, Line 184, Pos (12,9)
+#. ID 8, Page 1, Line 187, Pos (12,9)
+#. ID 8, Page 1, Line 190, Pos (12,9)
+#. ID 8, Page 1, Line 193, Pos (12,9)
+#. ID 8, Page 1, Line 196, Pos (12,9)
+#. ID 8, Page 1, Line 199, Pos (12,9)
+#. ID 8, Page 1, Line 202, Pos (12,9)
+#. ID 8, Page 1, Line 205, Pos (12,9)
+#. ID 8, Page 1, Line 208, Pos (12,9)
+#. ID 8, Page 1, Line 211, Pos (12,9)
+#. ID 8, Page 1, Line 214, Pos (12,9)
+#. ID 8, Page 1, Line 217, Pos (12,9)
+#. ID 8, Page 1, Line 220, Pos (12,9)
+#. ID 8, Page 1, Line 223, Pos (12,9)
+#. ID 8, Page 1, Line 226, Pos (12,9)
+#. ID 8, Page 1, Line 229, Pos (12,9)
+#. ID 8, Page 1, Line 232, Pos (12,9)
+#. ID 8, Page 1, Line 235, Pos (12,9)
+#. ID 8, Page 1, Line 238, Pos (12,9)
+#. ID 8, Page 1, Line 241, Pos (12,9)
+#. ID 8, Page 1, Line 244, Pos (12,9)
+#. ID 8, Page 1, Line 247, Pos (12,9)
+#. ID 8, Page 1, Line 250, Pos (12,9)
+#. ID 8, Page 1, Line 253, Pos (12,9)
+#. ID 8, Page 1, Line 256, Pos (12,9)
+#. ID 8, Page 1, Line 259, Pos (12,9)
+#. ID 8, Page 1, Line 262, Pos (12,9)
+#. ID 8, Page 1, Line 265, Pos (12,9)
+#. ID 8, Page 1, Line 268, Pos (12,9)
+#. ID 8, Page 1, Line 271, Pos (12,9)
+#. ID 8, Page 1, Line 274, Pos (12,9)
+#. ID 8, Page 1, Line 277, Pos (12,9)
+#. ID 8, Page 1, Line 280, Pos (12,9)
+#. ID 8, Page 1, Line 283, Pos (12,9)
+#. ID 8, Page 1, Line 286, Pos (12,9)
+#. ID 8, Page 1, Line 289, Pos (12,9)
+#. ID 8, Page 1, Line 292, Pos (12,9)
+#. ID 8, Page 1, Line 295, Pos (12,9)
+#. ID 8, Page 1, Line 298, Pos (12,9)
+#. ID 8, Page 1, Line 301, Pos (12,9)
+#. ID 8, Page 1, Line 304, Pos (12,9)
+#. ID 8, Page 1, Line 307, Pos (12,9)
+#. ID 8, Page 1, Line 310, Pos (12,9)
+#. ID 8, Page 1, Line 313, Pos (12,9)
+#. ID 8, Page 1, Line 316, Pos (12,9)
+#. ID 8, Page 1, Line 319, Pos (12,9)
+#. ID 8, Page 1, Line 322, Pos (12,9)
+#. ID 8, Page 1, Line 325, Pos (12,9)
+#. ID 8, Page 1, Line 328, Pos (12,9)
+#. ID 8, Page 1, Line 331, Pos (12,9)
+#. ID 8, Page 1, Line 334, Pos (12,9)
+#. ID 8, Page 1, Line 337, Pos (12,9)
+#. ID 8, Page 1, Line 340, Pos (12,9)
+#. ID 8, Page 1, Line 343, Pos (12,9)
+#. ID 8, Page 1, Line 346, Pos (12,9)
+#. ID 8, Page 1, Line 349, Pos (12,9)
+#. ID 8, Page 1, Line 352, Pos (12,9)
+#. ID 8, Page 1, Line 355, Pos (12,9)
+#. ID 8, Page 1, Line 358, Pos (12,9)
+#. ID 8, Page 1, Line 361, Pos (12,9)
+#. ID 8, Page 1, Line 364, Pos (12,9)
+#. ID 8, Page 1, Line 367, Pos (12,9)
+#. ID 8, Page 1, Line 370, Pos (12,9)
+#. ID 8, Page 1, Line 373, Pos (12,9)
+#. ID 8, Page 1, Line 376, Pos (12,9)
+#. ID 8, Page 1, Line 379, Pos (12,9)
+#. ID 8, Page 1, Line 382, Pos (12,9)
+#. ID 8, Page 1, Line 385, Pos (12,9)
+#. ID 8, Page 1, Line 388, Pos (12,9)
+#. ID 8, Page 1, Line 391, Pos (12,9)
+#. ID 8, Page 1, Line 394, Pos (12,9)
+#. ID 8, Page 1, Line 397, Pos (12,9)
+#. ID 8, Page 1, Line 400, Pos (12,9)
+#. ID 8, Page 1, Line 403, Pos (12,9)
+#. ID 8, Page 1, Line 406, Pos (12,9)
+#. ID 8, Page 1, Line 409, Pos (12,9)
+#. ID 8, Page 1, Line 412, Pos (12,9)
+#. ID 8, Page 1, Line 415, Pos (12,9)
+#. ID 8, Page 1, Line 418, Pos (12,9)
+#. ID 8, Page 1, Line 421, Pos (12,9)
+#. ID 8, Page 1, Line 424, Pos (12,9)
+#. ID 8, Page 1, Line 427, Pos (12,9)
+#. ID 8, Page 1, Line 430, Pos (12,9)
+#. ID 8, Page 1, Line 433, Pos (12,9)
+#. ID 8, Page 1, Line 436, Pos (12,9)
+#. ID 8, Page 1, Line 439, Pos (12,9)
+#. ID 8, Page 1, Line 442, Pos (12,9)
+#. ID 8, Page 1, Line 445, Pos (12,9)
+#. ID 8, Page 1, Line 448, Pos (12,9)
+#. ID 8, Page 1, Line 451, Pos (12,9)
+#. ID 8, Page 1, Line 454, Pos (12,9)
+#. ID 8, Page 1, Line 457, Pos (12,9)
+#. ID 8, Page 1, Line 460, Pos (12,9)
+#. ID 8, Page 1, Line 463, Pos (12,9)
+#. ID 8, Page 1, Line 466, Pos (12,9)
+#. ID 8, Page 1, Line 469, Pos (12,9)
+#. ID 8, Page 1, Line 472, Pos (12,9)
+#. ID 8, Page 1, Line 475, Pos (12,9)
+#. ID 8, Page 1, Line 478, Pos (12,9)
+#. ID 8, Page 1, Line 481, Pos (12,9)
+#. ID 8, Page 1, Line 484, Pos (12,9)
+#. ID 8, Page 1, Line 487, Pos (12,9)
+#. ID 8, Page 1, Line 490, Pos (12,9)
+#. ID 8, Page 1, Line 493, Pos (12,9)
+#. ID 8, Page 1, Line 496, Pos (12,9)
+#. ID 8, Page 1, Line 499, Pos (12,9)
+#. ID 8, Page 1, Line 502, Pos (12,9)
+#. ID 8, Page 1, Line 505, Pos (12,9)
+#. ID 8, Page 1, Line 508, Pos (12,9)
+#. ID 8, Page 1, Line 511, Pos (12,9)
+#. ID 8, Page 1, Line 514, Pos (12,9)
+#. ID 8, Page 1, Line 517, Pos (12,9)
+#. ID 8, Page 1, Line 520, Pos (12,9)
+#. ID 8, Page 1, Line 523, Pos (12,9)
+#. ID 8, Page 1, Line 526, Pos (12,9)
+#. ID 8, Page 1, Line 529, Pos (12,9)
+#. ID 8, Page 1, Line 532, Pos (12,9)
+#. ID 8, Page 1, Line 535, Pos (12,9)
+#. ID 8, Page 1, Line 538, Pos (12,9)
+#. ID 8, Page 1, Line 541, Pos (12,9)
+#. ID 8, Page 1, Line 544, Pos (12,9)
+#. ID 8, Page 1, Line 547, Pos (12,9)
+#. ID 8, Page 1, Line 550, Pos (12,9)
+#. ID 8, Page 1, Line 553, Pos (12,9)
+#. ID 8, Page 1, Line 556, Pos (12,9)
+#. ID 8, Page 1, Line 559, Pos (12,9)
+#. ID 8, Page 1, Line 562, Pos (12,9)
+#. ID 8, Page 1, Line 565, Pos (12,9)
+#. ID 8, Page 1, Line 568, Pos (12,9)
+#. ID 8, Page 1, Line 571, Pos (12,9)
+#. ID 8, Page 1, Line 574, Pos (12,9)
+#. ID 8, Page 1, Line 577, Pos (12,9)
+#. ID 8, Page 1, Line 580, Pos (12,9)
+#. ID 8, Page 1, Line 583, Pos (12,9)
+#. ID 8, Page 1, Line 586, Pos (12,9)
+#. ID 8, Page 1, Line 589, Pos (12,9)
+#. ID 8, Page 1, Line 592, Pos (12,9)
+#. ID 8, Page 1, Line 595, Pos (12,9)
+#. ID 8, Page 1, Line 598, Pos (12,9)
+#. ID 8, Page 1, Line 601, Pos (12,9)
+#. ID 8, Page 1, Line 604, Pos (12,9)
+#. ID 8, Page 1, Line 607, Pos (12,9)
+msgid "\\>\\v[1]%\\<\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 611, Pos (13,9)
+#. ID 2, Page 1, Line 17, Pos (11,6)
+#. ID 3, Page 1, Line 9, Pos (12,6)
+#. ID 4, Page 1, Line 44, Pos (13,6)
+#. ID 5, Page 1, Line 34, Pos (17,6)
+#. ID 6, Page 1, Line 40, Pos (15,6)
+#. ID 7, Page 1, Line 610, Pos (11,9)
+#. ID 8, Page 1, Line 611, Pos (12,9)
+#. ID 9, Page 1, Line 30, Pos (9,8)
+#. ID 20, Page 1, Line 35, Pos (18,6)
+#. ID 21, Page 1, Line 35, Pos (19,6)
+#. ID 22, Page 1, Line 15, Pos (6,6)
+#. ID 23, Page 1, Line 10, Pos (7,6)
+#. ID 24, Page 1, Line 7, Pos (18,8)
+msgid "Finished"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (11,6)
+msgid ""
+"Show an image (1, 100%, 160x120 coordinates, \n"
+"no effects, no transparency color), and deleting\n"
+"it. (Press a key to continue)."
+msgstr ""
+
+#. ID 2, Page 1, Line 9, Pos (11,6)
+msgid ""
+"Show an image (1, 100%, 160x120 coordinates, \n"
+"no effects, with transparency color), and deleting\n"
+"it. (Press a key to continue)."
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (12,6)
+msgid ""
+"Show an image (1, 100%, 0x0 coordinates, \n"
+"no effects, no transparency color), and deleting\n"
+"it. (Press a key to continue)."
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (13,6)
+msgid ""
+"Make appear a image ( Show image with 100% \n"
+"transparency, transparency color and Move image\n"
+" 3,0 sec 0% transparency, wait). ( Press a key\n"
+" to continue)."
+msgstr ""
+
+#. ID 4, Page 1, Line 12, Pos (13,6)
+msgid ""
+"Make appear a image ( Show image with 100% \n"
+"transparency, transparency color, from bottom \n"
+"and Move image  3,0 sec 0% transparency, wait).\n"
+"( Press a key  to continue). "
+msgstr ""
+
+#. ID 4, Page 1, Line 23, Pos (13,6)
+msgid ""
+"Make appear a image, same conditions of last \n"
+"image plus rotating and waving disappear.\n"
+"( Press a key  to continue). "
+msgstr ""
+
+#. ID 4, Page 1, Line 33, Pos (13,6)
+msgid ""
+"Make appear a image, same conditions of last \n"
+"image plus magnitud 0 to 100, and 100 to zero.\n"
+"( Press a key  to continue). \n"
+"(Known bug in RPG_RT, will crash sometimes)"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (17,6)
+msgid ""
+"Do images animation effects and turning it.\n"
+"(With move images command only)\n"
+"(curiously RPG_RT doesn't apply effects)."
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (17,6)
+#. ID 20, Page 1, Line 7, Pos (18,6)
+#. ID 21, Page 1, Line 6, Pos (19,6)
+msgid "Normal (Next: rotating, 5)"
+msgstr ""
+
+#. ID 5, Page 1, Line 8, Pos (17,6)
+#. ID 20, Page 1, Line 9, Pos (18,6)
+#. ID 21, Page 1, Line 8, Pos (19,6)
+msgid "Rotating 5 (Next: Rotating 1 (transition, 3 sec no wait))"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (17,6)
+#. ID 20, Page 1, Line 11, Pos (18,6)
+#. ID 21, Page 1, Line 10, Pos (19,6)
+msgid "Rotating 1 (Next: Rotating 9 (transition, 3 sec no wait))"
+msgstr ""
+
+#. ID 5, Page 1, Line 12, Pos (17,6)
+#. ID 20, Page 1, Line 13, Pos (18,6)
+#. ID 21, Page 1, Line 12, Pos (19,6)
+msgid "Rotating 9 (Next: No rotating (transition, 3 sec no wait))"
+msgstr ""
+
+#. ID 5, Page 1, Line 14, Pos (17,6)
+#. ID 20, Page 1, Line 15, Pos (18,6)
+#. ID 21, Page 1, Line 14, Pos (19,6)
+msgid "Normal (Next: Waving 5)"
+msgstr ""
+
+#. ID 5, Page 1, Line 16, Pos (17,6)
+#. ID 20, Page 1, Line 17, Pos (18,6)
+#. ID 21, Page 1, Line 16, Pos (19,6)
+msgid "Waving 5 (Next: Waving 1 (transition, 3 sec no wait))"
+msgstr ""
+
+#. ID 5, Page 1, Line 18, Pos (17,6)
+#. ID 20, Page 1, Line 19, Pos (18,6)
+#. ID 21, Page 1, Line 18, Pos (19,6)
+msgid "Waving 1 (Next: Waving 9 (transition, 3 sec no wait))"
+msgstr ""
+
+#. ID 5, Page 1, Line 20, Pos (17,6)
+#. ID 20, Page 1, Line 21, Pos (18,6)
+#. ID 21, Page 1, Line 20, Pos (19,6)
+msgid ""
+"Waving 9 (Next: Waving 9  150 magnitude,\n"
+"50 transparency (transition, 3 sec no wait))"
+msgstr ""
+
+#. ID 5, Page 1, Line 23, Pos (17,6)
+#. ID 20, Page 1, Line 24, Pos (18,6)
+#. ID 21, Page 1, Line 23, Pos (19,6)
+msgid ""
+"Waving 9  150 magnitude,\n"
+"50 transparency  (Next: Normal\n"
+"(transition, 3 sec no wait))"
+msgstr ""
+
+#. ID 5, Page 1, Line 27, Pos (17,6)
+#. ID 20, Page 1, Line 28, Pos (18,6)
+#. ID 21, Page 1, Line 27, Pos (19,6)
+msgid ""
+"Normal  (Next: Rotating 9 + 150\n"
+" magnitude + 50 transparency\n"
+"(transition, 3 sec no wait))"
+msgstr ""
+
+#. ID 5, Page 1, Line 31, Pos (17,6)
+#. ID 20, Page 1, Line 32, Pos (18,6)
+#. ID 21, Page 1, Line 32, Pos (19,6)
+msgid ""
+"Rotating 9  + 150 magnitude + 50  transparency \n"
+"(Next: normal (transition, 3 sec  no wait))"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (15,6)
+msgid "Rotating 1"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (15,6)
+msgid "Rotating 2"
+msgstr ""
+
+#. ID 6, Page 1, Line 7, Pos (15,6)
+msgid "Rotating 3"
+msgstr ""
+
+#. ID 6, Page 1, Line 9, Pos (15,6)
+msgid "Rotating 4"
+msgstr ""
+
+#. ID 6, Page 1, Line 11, Pos (15,6)
+msgid "Rotating 5"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (15,6)
+msgid "Rotating 6"
+msgstr ""
+
+#. ID 6, Page 1, Line 15, Pos (15,6)
+msgid "Rotating 7"
+msgstr ""
+
+#. ID 6, Page 1, Line 17, Pos (15,6)
+msgid "Rotating 8"
+msgstr ""
+
+#. ID 6, Page 1, Line 19, Pos (15,6)
+msgid "Rotating 9"
+msgstr ""
+
+#. ID 6, Page 1, Line 21, Pos (15,6)
+msgid "Waving 1"
+msgstr ""
+
+#. ID 6, Page 1, Line 23, Pos (15,6)
+msgid "Waving 2"
+msgstr ""
+
+#. ID 6, Page 1, Line 25, Pos (15,6)
+msgid "Waving 3"
+msgstr ""
+
+#. ID 6, Page 1, Line 27, Pos (15,6)
+msgid "Waving 4"
+msgstr ""
+
+#. ID 6, Page 1, Line 29, Pos (15,6)
+msgid "Waving 5"
+msgstr ""
+
+#. ID 6, Page 1, Line 31, Pos (15,6)
+msgid "Waving 6"
+msgstr ""
+
+#. ID 6, Page 1, Line 33, Pos (15,6)
+msgid "Waving 7"
+msgstr ""
+
+#. ID 6, Page 1, Line 35, Pos (15,6)
+msgid "Waving 8"
+msgstr ""
+
+#. ID 6, Page 1, Line 37, Pos (15,6)
+msgid "Waving 9"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (11,9)
+msgid ""
+"Show test image, magnitude 0% to 2000% \n"
+"(RPG Maker max), step 10%.(200 times)."
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (12,9)
+msgid ""
+"Show test image, magnitude 0% to 2000% \n"
+"(RPG Maker max), step 10%.(200 times).\n"
+"(rotating 5, 50%transparency)"
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (9,8)
+msgid ""
+"Show an image with coordinates according to \n"
+"Variables 0001 and 0002."
+msgstr ""
+
+#. ID 9, Page 1, Line 3, Pos (9,8)
+msgid "Enter var 0001"
+msgstr ""
+
+#. ID 9, Page 1, Line 5, Pos (9,8)
+msgid "Enter var 0002"
+msgstr ""
+
+#. ID 9, Page 1, Line 7, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Do you want to move the image? (Pause, move 3 \n"
+"seconds (wait) and pause again)."
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 3, Pos (2,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+
+#. ID 9, Page 1, Line 11, Pos (9,8)
+msgid ""
+"Move to coordinates according to variable 0003\n"
+"and 0004. Variable 0003?"
+msgstr ""
+
+#. ID 9, Page 1, Line 14, Pos (9,8)
+msgid "Variable 0004?"
+msgstr ""
+
+#. ID 9, Page 1, Line 18, Pos (9,8)
+#. ID 9, Page 1, Line 20, Pos (9,8)
+#. ID 9, Page 1, Line 25, Pos (9,8)
+#. ID 22, Page 1, Line 11, Pos (6,6)
+msgid " "
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (8,8)
+msgid ""
+"Show (and move) many images at once.\n"
+"The animation must be uniform and without\n"
+"flicks."
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (7,8)
+msgid "Testing showing 50 images ( max ID) at once."
+msgstr ""
+
+#. ID 11, Page 1, Line 53, Pos (7,8)
+msgid "Finished."
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (3,7)
+msgid ""
+"Show an static image in screen\n"
+"(small)\n"
+"Talk to the left chara to erase it."
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (2,7)
+#. ID 17, Page 1, Line 1, Pos (2,9)
+msgid "Erase image #1 and #40"
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (4,7)
+msgid ""
+"Show an  image in screen moving with the map\n"
+"(small)\n"
+"Talk to the left chara to erase it."
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (3,9)
+msgid ""
+"Show an static image in screen\n"
+"(big, zoomed, 50% transparency)\n"
+"Talk to the left chara to erase it."
+msgstr ""
+
+#. ID 16, Page 1, Line 1, Pos (4,9)
+msgid ""
+"Show an  image in screen moving with the map\n"
+"(big, zoomed, 50% transparency)\n"
+"Talk to the left chara to erase it."
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (5,9)
+msgid ""
+"Show 2 images in screen moving with the map\n"
+"(big, zoomed, 50% transparency)\n"
+"Talk to the left chara to erase it."
+msgstr ""
+
+#. ID 19, Page 1, Line 1, Pos (2,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Do you want go to main Test Suite map?\n"
+"(all images must be erased)"
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (18,6)
+msgid ""
+"Do images animation effects and turning it.\n"
+"(With move images command, and show image while\n"
+"turning to rotating effect)\n"
+"(curiously RPG_RT doesn't turn rotate to waving)."
+msgstr ""
+
+#. ID 21, Page 1, Line 1, Pos (19,6)
+msgid ""
+"Do images animation effects and turning it.\n"
+"(With move images command, and show images while\n"
+"turning effects). "
+msgstr ""
+
+#. ID 22, Page 1, Line 1, Pos (6,6)
+msgid "Doing image commands to no existent images."
+msgstr ""
+
+#. ID 22, Page 1, Line 2, Pos (6,6)
+msgid ""
+"Moving picture #15\n"
+"(wait 3.0 sec to finish)"
+msgstr ""
+
+#. ID 22, Page 1, Line 5, Pos (6,6)
+msgid "Erasing picture #44"
+msgstr ""
+
+#. ID 22, Page 1, Line 7, Pos (6,6)
+msgid ""
+"Show image 1, and erasing it. Apply zoom to image \n"
+"1 then (wait 3.0 sec to finish)"
+msgstr ""
+
+#. ID 23, Page 1, Line 1, Pos (7,6)
+msgid ""
+"Showing a test image and do some battle \n"
+"animations (show battle animation required, \n"
+"wait to finish)\n"
+"(Images priority must be below to animations)."
+msgstr ""
+
+#. ID 24, Page 1, Line 1, Pos (18,8)
+msgid ""
+"Moving a 0% zoomed image. \n"
+"(Watch out! RPG_RT can crash!)\n"
+"(Wait 3.0 sec)."
+msgstr ""
+
+#. ID 70, Page 1, Line 1, Pos (18,24)
+msgid "Picture layer"
+msgstr ""
+
+#. ID 70, Page 1, Line 3, Pos (18,24)
+msgid "Lowest (Above parallax)"
+msgstr ""
+
+#. ID 70, Page 1, Line 5, Pos (18,24)
+msgid ""
+"Above lower tileset\n"
+"Castle & Lower part of tree"
+msgstr ""
+
+#. ID 70, Page 1, Line 8, Pos (18,24)
+msgid ""
+"Above below Player events\n"
+"1st Carol"
+msgstr ""
+
+#. ID 70, Page 1, Line 11, Pos (18,24)
+msgid ""
+"Above same as Player events\n"
+"2nd Carol & Player"
+msgstr ""
+
+#. ID 70, Page 1, Line 14, Pos (18,24)
+msgid ""
+"Above upper tileset\n"
+"Hole (Square tile) and upper tree (Star tile)"
+msgstr ""
+
+#. ID 70, Page 1, Line 18, Pos (18,24)
+msgid ""
+"Above above Player events\n"
+"3rd Carol"
+msgstr ""
+
+#. ID 70, Page 1, Line 22, Pos (18,24)
+msgid "Above weather (default)"
+msgstr ""
+
+#. ID 70, Page 1, Line 25, Pos (18,24)
+msgid "Above Battle Animations"
+msgstr ""
+
+#. ID 70, Page 1, Line 30, Pos (18,24)
+msgid ""
+"\n"
+"\n"
+"\n"
+"                   Above Message"
+msgstr ""
+
+#. ID 70, Page 1, Line 35, Pos (18,24)
+msgid ""
+"                     Highest\n"
+"\n"
+"\n"
+"                   Above Timers"
+msgstr ""
+
+#. ID 71, Page 1, Line 2, Pos (15,9)
+msgid "This picture has an alpha-channel"
+msgstr ""
+
+#. ID 71, Page 1, Line 4, Pos (15,9)
+msgid ""
+"This picture has an alpha-channel\n"
+"and 50% transparency"
+msgstr ""
+
+#. ID 71, Page 1, Line 7, Pos (15,9)
+msgid "This picture has no alpha-channel"
+msgstr ""
+
+#. ID 71, Page 1, Line 9, Pos (15,9)
+msgid ""
+"This picture has no alpha-channel\n"
+"and 50% transparency"
+msgstr ""
+
+#. ID 72, Page 1, Line 1, Pos (4,24)
+msgid ""
+"Changing transparency from 0 to 100\n"
+"via ShowPicture"
+msgstr ""
+
+#. ID 73, Page 1, Line 1, Pos (4,23)
+msgid ""
+"Changing transparency from 0 to 100\n"
+"via MovePicture"
+msgstr ""
+
+#. ID 74, Page 1, Line 1, Pos (8,24)
+#. ID 75, Page 1, Line 1, Pos (8,23)
+msgid ""
+"Testing showing 50 images (max ID) at once.\n"
+"Using a fancy loop."
+msgstr ""
+
+#. ID 74, Page 1, Line 33, Pos (8,24)
+msgid ""
+"Finished.\n"
+"Next: Batch erase"
+msgstr ""
+
+#. ID 75, Page 1, Line 33, Pos (8,23)
+msgid ""
+"Finished.\n"
+"Next: Loop erase"
+msgstr ""
+
+#. ID 76, Page 1, Line 1, Pos (6,24)
+msgid ""
+"Changing zoom from 0 to 2000\n"
+"via ShowPicture"
+msgstr ""
+
+#. ID 77, Page 1, Line 1, Pos (6,23)
+msgid ""
+"Changing zoom from 0 to 2000\n"
+"via MovePicture"
+msgstr ""
+
+#. ID 78, Page 1, Line 1, Pos (2,24)
+msgid "All events below the stairs require RPG Maker 2k3 1.12"
+msgstr ""
+
+#. ID 79, Page 1, Line 1, Pos (10,24)
+msgid "Insert a number"
+msgstr ""
+
+#. ID 79, Page 1, Line 4, Pos (10,24)
+msgid "The picture shows \\V[3]"
+msgstr ""
+
+#. ID 80, Page 1, Line 1, Pos (10,23)
+msgid "Showing 0 to 9 through Filename substitution"
+msgstr ""
+
+#. ID 81, Page 1, Line 2, Pos (12,24)
+msgid "Spritesheet: Frame 1"
+msgstr ""
+
+#. ID 81, Page 1, Line 4, Pos (12,24)
+msgid "Spritesheet: Frame 7"
+msgstr ""
+
+#. ID 81, Page 1, Line 6, Pos (12,24)
+msgid "Spritesheet: Frame 13"
+msgstr ""
+
+#. ID 81, Page 1, Line 8, Pos (12,24)
+msgid "Spritesheet: Frame 19"
+msgstr ""
+
+#. ID 81, Page 1, Line 10, Pos (12,24)
+msgid "Spritesheet: Frame 25"
+msgstr ""
+
+#. ID 82, Page 1, Line 2, Pos (12,23)
+msgid "Using a 2x5 Spritesheet: Frame 1"
+msgstr ""
+
+#. ID 82, Page 1, Line 4, Pos (12,23)
+msgid "Spritesheet: Frame 2"
+msgstr ""
+
+#. ID 82, Page 1, Line 6, Pos (12,23)
+msgid "Spritesheet: Frame 4"
+msgstr ""
+
+#. ID 82, Page 1, Line 8, Pos (12,23)
+msgid "Spritesheet: Frame 10"
+msgstr ""
+
+#. ID 83, Page 1, Line 1, Pos (12,21)
+msgid ""
+"Spritesheet: Loop\n"
+"6/60s per frame"
+msgstr ""
+
+#. ID 83, Page 1, Line 4, Pos (12,21)
+msgid "Hit enter"
+msgstr ""
+
+#. ID 83, Page 1, Line 6, Pos (12,21)
+msgid ""
+"Spritesheet: Loop and erase\n"
+"4/60s per frame"
+msgstr ""
+
+#. ID 84, Page 1, Line 1, Pos (12,22)
+msgid "Spritesheet: Insert a frame (1-25)"
+msgstr ""
+
+#. ID 84, Page 1, Line 4, Pos (12,22)
+#. ID 84, Page 1, Line 8, Pos (12,22)
+msgid "Bad input. Nothing shown"
+msgstr ""
+
+#. ID 84, Page 1, Line 16, Pos (12,22)
+msgid "The picture shows \\V[2]"
+msgstr ""
+
+#. ID 85, Page 1, Line 3, Pos (14,24)
+msgid "Moving to World Map"
+msgstr ""
+
+#. ID 85, Page 1, Line 5, Pos (14,24)
+msgid "The 1 survived the map change"
+msgstr ""
+
+#. ID 85, Page 1, Line 7, Pos (14,24)
+#. ID 89, Page 1, Line 6, Pos (10,22)
+msgid "Done"
+msgstr ""
+
+#. ID 86, Page 1, Line 4, Pos (16,24)
+msgid "Image 1 doesn't shake"
+msgstr ""
+
+#. ID 87, Page 1, Line 4, Pos (16,23)
+msgid "Image 1 doesn't flash"
+msgstr ""
+
+#. ID 88, Page 1, Line 4, Pos (16,22)
+msgid "Image 1 tints"
+msgstr ""
+
+#. ID 89, Page 1, Line 2, Pos (10,22)
+msgid ""
+"Showing 10 through Filename substitution\n"
+"But the size of the replacement char \n"
+"width is only 1."
+msgstr ""
+

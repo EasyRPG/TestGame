@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (8,10)
+msgid "Learn Test ability to Alex"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (9,10)
+msgid "Forget Test ability to Alex"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (8,8)
+msgid ""
+"Learn ability N° Var0009 to Alex\n"
+"(Var 0009=2 , Ability N°0002: Test ability)"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (9,8)
+msgid "Learn Test ability to all group"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (10,8)
+msgid "Learn Test ability to carola"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (11,8)
+msgid ""
+"Learn Test ability to Hero ID from Var 0002\n"
+"(Var 0002=4, Hero ID 4: Deiji)"
+msgstr ""
+
+#. ID 8, Page 1, Line 2, Pos (13,8)
+msgid ""
+"Learn ability N° Var0009 to Alex\n"
+"(Var 0009=-6 , watch out!)\n"
+"Looking Alex's abilities causes a error in \n"
+"RPG_RT 1.51 "
+msgstr ""
+

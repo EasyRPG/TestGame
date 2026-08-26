@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (11,13)
+msgid "Setting the variable 0004 = 7"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (12,13)
+#. ID 3, Page 1, Line 4, Pos (3,10)
+#. ID 4, Page 1, Line 4, Pos (4,10)
+#. ID 5, Page 1, Line 4, Pos (5,10)
+#. ID 6, Page 1, Line 4, Pos (6,10)
+#. ID 7, Page 1, Line 4, Pos (7,10)
+#. ID 8, Page 1, Line 5, Pos (0,10)
+#. ID 9, Page 1, Line 5, Pos (1,10)
+#. ID 10, Page 1, Line 6, Pos (0,7)
+#. ID 12, Page 1, Line 5, Pos (1,7)
+msgid "Variable 0004 is \\v[0004]"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (3,10)
+msgid ""
+"Variable 0004 is \\v[0004]\n"
+"Setting the variable 0004 += 4"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (4,10)
+msgid ""
+"Variable 0004 is \\v[0004]\n"
+"Setting the variable 0004 -= 6"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (5,10)
+msgid ""
+"Variable 0004 is \\v[0004]\n"
+"Setting the variable 0004 x= 2"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (6,10)
+msgid ""
+"Variable 0004 is \\v[0004]\n"
+"Setting the variable 0004 /= 2"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (7,10)
+msgid ""
+"Variable 0004 is \\v[0004]\n"
+"Setting the variable 0004 mod= 9"
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (0,10)
+msgid ""
+"Variable 0004 is \\v[0004]\n"
+"Setting the variable 0004 /= 0\n"
+"(Watch out!)"
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (1,10)
+msgid ""
+"Variable 0004 is \\v[0004]\n"
+"Setting the variable 0004 mod= 0\n"
+"(Watch out!)"
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (0,7)
+msgid ""
+"Setting Variable (Variable 0013) = 4 \n"
+"Variable 0013=-5, points to variable -0005\n"
+"(Watch out!)"
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (2,7)
+msgid ""
+"Variables 0001 to 0008 are\n"
+"\\v[1] \\v[2] \\v[3] \\v[4] \\v[5] \\v[6] \\v[7] \\v[8]\n"
+"Setting Variable 0001-0007 = 2"
+msgstr ""
+
+#. ID 11, Page 1, Line 5, Pos (2,7)
+msgid ""
+"Variables 0001 to 0008 are\n"
+"\\v[1] \\v[2] \\v[3] \\v[4] \\v[5] \\v[6] \\v[7] \\v[8]"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (1,7)
+msgid ""
+"Setting Variable (Variable 0013) = 4\n"
+"Variable 0013=6, points to variable 0006"
+msgstr ""
+

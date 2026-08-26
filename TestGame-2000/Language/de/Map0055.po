@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 4, Pos (4,9)
+msgid ""
+"Added 3 teleport points.\n"
+"Use Teleport skill (Alex)."
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (5,9)
+msgid "Removed all teleport points except World test."
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (8,9)
+msgid ""
+"Add 3 teleports on this map. One overlapping.\n"
+"Only the last is used."
+msgstr ""
+
+#. ID 5, Page 1, Line 2, Pos (4,7)
+msgid ""
+"Added escape point to map2\n"
+"Use Escape skill (Alex)."
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (5,7)
+msgid ""
+"Added two escape locations.\n"
+"Only the 2nd (this map) is respected."
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (12,9)
+msgid "Teleport enabled"
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (11,9)
+msgid "Teleport disabled"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (9,9)
+msgid "Remove the 3 teleports on this map."
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (6,9)
+msgid ""
+"Removed all teleport points. Using different\n"
+"coordinates. Do not matter."
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (7,7)
+msgid "Escape disabled"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (8,7)
+msgid "Escape enabled"
+msgstr ""
+

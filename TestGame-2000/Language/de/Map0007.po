@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (8,11)
+msgid "Turning Switch 0007 to ON"
+msgstr ""
+
+#. ID 2, Page 1, Line 2, Pos (9,11)
+msgid "Turning Switch 0007 to OFF"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (4,11)
+msgid "I'm here beacuse switch 0007 is ON."
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (10,11)
+msgid "Turning Switch 0007 to ON or OFF"
+msgstr ""
+
+#. ID 5, Page 1, Line 2, Pos (8,9)
+msgid "Turning Switch 0001 to 0007 to ON"
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (9,9)
+msgid "Turning Switch 0001 to 0007 to OFF"
+msgstr ""
+
+#. ID 13, Page 1, Line 2, Pos (10,9)
+msgid "Turning Switch 0001 to 0007 to ON or OFF"
+msgstr ""
+
+#. ID 14, Page 1, Line 3, Pos (8,7)
+msgid ""
+"Turning Switch N° (value in var 0004) to ON\n"
+"Variable 0004 is = 7"
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (9,7)
+msgid ""
+"Turning Switch N° (value in var 0004) to OFF\n"
+"Variable 0004 is = 7"
+msgstr ""
+
+#. ID 16, Page 1, Line 3, Pos (10,7)
+msgid ""
+"Turning Switch N° (value in var 0004) to ON or OFF\n"
+"Variable 0004 is = 7"
+msgstr ""
+
+#. ID 18, Page 1, Line 2, Pos (8,5)
+msgid ""
+"Turning Switch 0005 to 0001 to ON\n"
+"Invalid Loop range, RPG_RT does nothing"
+msgstr ""
+
+#. ID 19, Page 1, Line 2, Pos (9,5)
+msgid ""
+"Turning Switch 0005 to 0001 to OFF\n"
+"Invalid Loop range, RPG_RT does nothing"
+msgstr ""
+
+#. ID 20, Page 1, Line 2, Pos (10,5)
+msgid ""
+"Turning Switch 0005 to 0001 to ON or OFF\n"
+"Invalid Loop range, RPG_RT does nothing"
+msgstr ""
+
