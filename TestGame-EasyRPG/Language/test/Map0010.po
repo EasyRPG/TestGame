@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.9\n"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid "I'm an \\t[5] whose event ID is \\v[5]"
+msgstr ""
+"I'm an \\t[5] whose event ID is \\v[5],\n"
+"bonjour"
+
+#. ID 2, Page 1, Line 3, Pos (1,0)
+msgid ""
+"I'm the new event ID \\v[5] that was cloned from\n"
+"map 10, my name is \\t[5]"
+msgstr ""
+"I'm the new event ID \\v[5] that was cloned from\n"
+"map 10, my name is \\t[5], bonjour"
+
+#. ID 3, Page 1, Line 3, Pos (2,0)
+msgid ""
+"Hello from event ID \\v[5] \"\\t[5]\"\n"
+"from a text box"
+msgstr ""
+"Bonjour from event ID \\v[5] \"\\t[5]\"\n"
+"from a text box"
+
+#. ID 3, Page 1, Line 5, Pos (2,0)
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Hello from event ID \\v[5] \"\\t[5]\"\n"
+"from a string picture"
+msgstr ""
+"Bonjour from event ID \\v[5] \"\\t[5]\"\n"
+"from a string picture"
+
+#. ID 3, Page 1, Line 8, Pos (2,0)
+msgid "Actor 1 name is \\n[0] and has no title"
+msgstr "Actor 1 has for name \\n[0] and lacks title"
+
+#. ID 3, Page 1, Line 9, Pos (2,0)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Peter"
+msgstr "Pierre"
+
+#. ID 3, Page 1, Line 10, Pos (2,0)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Forgotten"
+msgstr "L'oublié"
+
+#. ID 3, Page 1, Line 11, Pos (2,0)
+msgid ""
+"Actor 1 name is now \\n[0] and its title is\n"
+"now Forgotten (see menu)"
+msgstr ""
+"Actor 1 name is now \\n[0] and its title is\n"
+"now L'oublié (see menu)"
+
+#. ID 3, Page 1, Line 14, Pos (2,0)
+msgid "Enter new name for Zack (name can be Pepper)"
+msgstr "Enter new name for Zack (name can be Poivron)"
+
+#. ID 3, Page 1, Line 16, Pos (2,0)
+#. Condition (Actor Name = Pepper)
+msgctxt "actors.name"
+msgid "Pepper"
+msgstr "Poivron"
+
+#. ID 3, Page 1, Line 17, Pos (2,0)
+msgid ""
+"Actor 1's new name is now \\n[0]\n"
+"This name is Pepper (conditional branch check)"
+msgstr ""
+"Actor 1's new name is now \\n[0]\n"
+"This name is Poivron (conditional branch check)"
+
+#. ID 3, Page 1, Line 21, Pos (2,0)
+msgid ""
+"Actor 1's new name is now \\n[0]\n"
+"This name is not Pepper (conditional branch check)"
+msgstr ""
+"Actor 1's new name is now \\n[0]\n"
+"This name is not Poivron (conditional branch check)"
+
+#. ID 3, Page 1, Line 26, Pos (2,0)
+msgid "String variable: \\t[6]"
+msgstr ""
+"String variable: \\t[6]\n"
+"(String variables can't yet be translated)"
+
+#. ID 3, Page 1, Line 27, Pos (2,0)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Zack"
+msgstr "Jack"
+
+#. ID 3, Page 1, Line 28, Pos (2,0)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "None"
+msgstr "N/A"

@@ -4,8 +4,15 @@ Initial test suite by Enzo Barbaguelatta (Elsemi EN.I).
 Other new tests and contributions by Falc (Aitor García), Ghabry, Francisco de la Peña, ravotd, carstene1ns (Carsten Teibes), Mimigris (Carbonara).
 
 All of the bmp files present in the Picture folder of the TestGame-2000 and used in the BMP tests room (files starting by either 4bpp, 8bpp, bitdepth, colormasks, compression, fileinfoheader, filesize, height, infoheader, magicnumber, offbits, palette, pels, pixeldata, planes, reserved, width) are made by David Costanzo (License: Public Domain)
-
 URL: https://bmptestsuite.sourceforge.io/
+
+The logo graphics used in the TestGame-EasyRPG are those of the EasyRPG project, and are made by Jetrotal.
+The monochrome part of the ExFont is the ExFont replacement made by filosofiamanga used by the EasyRPG Player.
+The colored ExFont is a mix of graphics made by Jetrotal and modified graphics from the Pixel Twemoji 9x pack, licensed under CC-BY.
+URL: https://modrinth.com/resourcepack/pixel-twemoji-9x
+
+The font TinyUnicode used in the TestGame-Maniac is made by DuffsDevice, and licensed under a Creative Commons Attribution 4.0 International license.
+URL: https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=468
 
 The following EasyRPG RTP materials are licensed under a Creative Commons Attribution 4.0 International license.
 
@@ -20,7 +27,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 **📁 `BattleWeapon`**|  
 └⠀ `Weapon.png` | 2010 | russidan (Alephman) [CC-BY] | None
 **📁 `CharSet`**|  
-├⠀ `Actor1.png`/`Chara1.png` | 2010/2023 | Marina Navarro Travesset(base) [CC-BY] <br/>VictorSena(Edit) [CC-BY] | https://muerteatartajo.blogspot.com <br/>https://vashmaker.blogspot.com/p/works.html
+├⠀ `Actor1.png`/`Chara1.png`/`$Actor1H.png`/`$Actor1W.png`/`$Actor1WH.png` | 2010/2023 | Marina Navarro Travesset(base) [CC-BY] <br/>VictorSena(Edit) [CC-BY] | https://muerteatartajo.blogspot.com <br/>https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Actor2.png` | 2023 | VictorSena(1,2,3,4,6,7,8)[CC-BY]<br/>Garakuta+VictorSena(5)[CC-BY] | https://vashmaker.blogspot.com/p/works.html <br/>http://garakutamaker.blog.fc2.com/
 ├⠀ `Actor3.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Actor4.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
@@ -106,6 +113,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `Ice9.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Item1.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Item2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Key.wav` | 2024 | nightskypatr0l [CC0] | https://stanleycommz.carrd.co/
 ├⠀ `Magic1.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Monster1.wav`/`Monster1_OGG.ogg` | 2024 | nightskypatr0l [CC0] | https://stanleycommz.carrd.co/
 ├⠀ `Poison.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle

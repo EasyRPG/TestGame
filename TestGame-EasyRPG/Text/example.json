@@ -1,0 +1,21 @@
+{
+  "null_example": null,
+  "boolean_example": true,
+  "number_int_example": 1,
+  "number_float_example": 1.0,
+  "string_example": "string",
+  "array_example": [
+    1,
+    2,
+    3,
+    true,
+    "string",
+    {
+      "another_object_example": 2.0
+    }
+  ],
+  "object_example": {
+    "nested_object_1": true,
+    "nested_object_2": "hello"
+  }
+}

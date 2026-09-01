@@ -1,63 +1,37 @@
 # ignore RPG Maker backup and EasyRPG crash files
 *.bak
 *.dmp
-# exclude Player files and Player-generated files (2000)
-TestGame-2000/easyrpg-player
-TestGame-2000/Player.exe
-TestGame-2000/easyrpg_log.txt
-TestGame-2000/screenshot_*
-TestGame-2000/auto_*.png
-TestGame-2000/wildmidi.cfg
-TestGame-2000/wildmidi/*
-# exclude RPG Maker-only files (2000)
-TestGame-2000/RPG_RT.exe
-TestGame-2000/*/thumbs.db
-# exclude player save files (2000)
-TestGame-2000/Save*
-# exclude EasyRPG Player format files (2000)
-TestGame-2000/Map????.emu
-TestGame-2000/RPG_RT.emt
-TestGame-2000/RPG_RT.edb
-# exclude compiled translation files (not a format accepted) (2000)
-TestGame-2000/Language/**/*.mo
-# exclude Player files and Player-generated files (2003)
-TestGame-2003/easyrpg-player
-TestGame-2003/Player.exe
-TestGame-2003/easyrpg_log.txt
-TestGame-2003/screenshot_*
-TestGame-2003/auto_*.png
-TestGame-2003/wildmidi.cfg
-TestGame-2003/wildmidi/*
-# exclude RPG Maker-only files (2003)
-TestGame-2003/dynloader.dll
-TestGame-2003/DynPlugins
-TestGame-2003/Harmony.dll
-TestGame-2003/harmony.log
-TestGame-2003/RPG_RT.exe
-TestGame-2003/*/thumbs.db
-TestGame-2003/ultimate_rt_eb.dll
-# exclude player save files (2003)
-TestGame-2003/Save*
-# exclude EasyRPG Player format files (2003)
-TestGame-2003/Map????.emu
-TestGame-2003/RPG_RT.emt
-TestGame-2003/RPG_RT.edb
-# exclude Player files and Player-generated files (Maniac)
-TestGame-Maniac/easyrpg-player
-TestGame-Maniac/Player.exe
-TestGame-Maniac/easyrpg_log.txt
-TestGame-Maniac/screenshot_*
-TestGame-Maniac/auto_*.png
-TestGame-Maniac/wildmidi.cfg
-TestGame-Maniac/wildmidi/*
-# exclude RPG Maker-only files (Maniac)
-TestGame-Maniac/RPG_RT.exe
-TestGame-Maniac/*/thumbs.db
-TestGame-Maniac/ultimate_rt_eb.dll
-TestGame-Maniac/accord.dll
-# exclude player save files (Maniac)
-TestGame-Maniac/Save*
-# exclude EasyRPG Player format files (Maniac)
-TestGame-Maniac/Map????.emu
-TestGame-Maniac/RPG_RT.emt
-TestGame-Maniac/RPG_RT.edb
+# ignore thumbnails
+thumbs.db
+# exclude Player files and Player-generated files
+easyrpg-player
+easyrpg_log.txt
+screenshot_*.png
+auto_*.png
+wildmidi.cfg
+wildmidi/*
+# exclude RPG Maker-only files
+*.exe
+*.dll
+# exclude save files
+Save*
+# exclude EasyRPG Player format files
+*.emu
+*.esd
+*.emt
+*.edb
+*.xml
+# exclude compiled translation files
+*.mo
+# exclude Patch related files
+DynPlugins/
+*.log
+# exclude test suite generated files (Maniac)
+TestGame-Maniac/Screenshot/
+TestGame-Maniac/Text/text_export.txt
+TestGame-Maniac/Text/json_export.json
+TestGame-Maniac/colour.png
+TestGame-Maniac/m_colour.png
+TestGame-Maniac/screenshot.png
+TestGame-Maniac/pic_screenshot.png
+TestGame-Maniac/Picture/Screenshot_a.png

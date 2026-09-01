@@ -1,0 +1,4 @@
+[Execute]
+Action=MidiTickFunction
+Command=original
+next=
